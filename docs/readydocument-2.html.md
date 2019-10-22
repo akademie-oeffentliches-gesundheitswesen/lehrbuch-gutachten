@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LB-ÖGD_02 Begriffsbestimmungen
+title: 02. Die Rolle als amtsärztliche/r Gutachter/in
 nav_order: 2
 ---
  
@@ -16,368 +16,215 @@ nav_order: 2
    <p></p>
  
  
-# Begriffsbestimmungen
+Die amts- bzw. sozialärztlich begutachtende Person wird gegenüber der
+auftraggebenden Stelle als Sachverständige/r tätig.
 
-In Deutschland werden die Begriffe Öffentliche Gesundheit (engl. Public
-Health), Bevölkerungsgesundheit, Bevölkerungsmedizin oder Sozialmedizin
-oft synonym verwendet. Allerdings beinhalten diese zum Teil inhaltliche
-Differenzierungen und werden unterschiedlich interpretiert. Dies ist
-einerseits durch die besondere Geschichte Deutschlands, andererseits
-durch die Verwendung, Bedeutung oder Übersetzung der Begriffe in die
-deutsche Sprache bedingt.
+Eine/r **„Sachverständige/r**“ ist eine Person, die etwas von einer
+speziellen „Sache“ versteht – d.h. besonders geeignet ist, anderen,
+weniger sachkundigen Verfahrensbeteiligten Hintergründe zu einem (hier:
+medizinischen) Sachverhalt zu vermitteln und auf Grundlage von
+Kenntnissen und Erfahrungen bei Bedarf auch eine Bewertung aus
+fachlicher Sicht vorzunehmen.
 
-Um die mit verschiedenen Bedeutungen verbundene Begriffe für die
-praktische alltägliche Arbeit im ÖGD verständlich zu machen, werden
-diese im Folgenden beschrieben und interpretiert.
+### Persönliche Voraussetzungen
 
-## Gesundheit
+Bei einer ärztlichen begutachtenden Person (Gutachter/in) werden
+verschiedene Grundkompetenzen vorausgesetzt:
 
-Die Weltgesundheitsorganisation (WHO) definiert Gesundheit in ihrer
-Verfassung von 1946 als “ein Zustand des vollkommenen körperlichen,
-geistigen und sozialen Wohlbefindens und nicht allein das Fehlen von
-Krankheit oder Gebrechen." (Health is a state of complete physical,
-mental and social well-being and not merely the absence of disease or
-infirmity). (REF: WHO (1946): Constitution of the World Health
-Organization, Abs 2. Definition der WHO (World Health Organisation) von
-1946). Oft wird die hier beschriebene Gesundheit mit Wohlbefinden (engl.
-well-being) gleichgesetzt.
+  - ärztliche Grundkenntnisse
 
-Bevor sich diese Definition durchsetzte war ein Mensch im Allgemeinen
-als gesund erachtet worden, wenn diesem äußerlich nichts fehlte.
+  - je nach Fragestellung spezialisierte Fachkompetenz
 
-## Öffentliche Gesundheit
+  - Kenntnisse im sozialrechtlichen (o.a.) Kontext der
+    Begutachtungsthematik
 
-Unter öffentlicher Gesundheit wird die Gesundheit aller Menschen in
-einem Zeitraum in einem festgelegten geographischen Raum, unabhängig von
-Faktoren wie Staatsbürgerschaft oder Nationalität verstanden. Dabei
-handelt es sich um die Bestandsaufnahme eines Zustands und weder um eine
-wissenschaftliche Theorie, noch um gesundheitspolitische Maßnahmen.
+  - Fähigkeit zu logischem, abstrahierendem und schlussfolgerndem Denken
 
-## Gesundheitswesen (synonym: Gesundheitssystem)
+  - sehr gute mündliche und schriftliche Kommunikationsfähigkeiten
 
-Hierbei handelt es sich um einen übergeordneten Begriff für alle
-staatlichen, kommunalen und privaten Einrichtungen, Organisationen oder
-natürlichen Personen, die im Sinne der Gesundheit der Menschen tätig
-sind und sich mit der Aufrechterhaltung der
-[Gesundheit](https://flexikon.doccheck.com/de/Gesundheit) der
-[Bevölkerung](https://flexikon.doccheck.com/de/Bev%C3%B6lkerung), sowie
-der [Prophylaxe](https://flexikon.doccheck.com/de/Prophylaxe),
-[Diagnose](https://flexikon.doccheck.com/de/Diagnose) und
-[Therapie](https://flexikon.doccheck.com/de/Therapie) von
-[Erkrankungen](https://flexikon.doccheck.com/de/Erkrankung)
-beschäftigen.
+  - Distanz, Neutralität und Unabhängigkeit
 
-An der Gestaltung und Funktion des Gesundheitswesens Beteiligte sind:
+### Kritisches Rollenverständnis
 
-● der Staat mit seiner Gesetzgebung und seinen öffentlichen
-Körperschaften
+Die letztgenannte Erwartung an die Funktion der begutachtenden Person
+erfordert, sich über die Rolle bzw. Positionierung in den divergierenden
+Interessenslagen bewusst zu werden.
 
-● die Leistungsempfänger (Patientinnen und Patienten)
+Die Person hat grundsätzlich unparteiisch zu sein, d.h. sie soll und
+darf weder die Interessen des zu Begutachtenden (cave: ärztlicher
+Rollenkonflikt\!) noch die Interessen des Beauftragenden (cave: dienstl.
+Interessenkonflikt?) einseitig beachten oder gar berücksichtigen.
 
-● die Leistungserbringer (z.B. [Ärztinnen und
-Ärzte](https://flexikon.doccheck.com/de/Arzt),
-[Pflegepersonal](https://flexikon.doccheck.com/de/Pflegepersonal),
-[Apotheker](https://flexikon.doccheck.com/de/Apotheke)innen und
-Apotheker, [Therapeut](https://flexikon.doccheck.com/de/Therapeut)innen
-und Therapeuten u.a.)
+Dies führt allerdings häufig zu einem typischen Rollenkonflikt. Primär
+ist die Ärztin/ der Arzt aus der Berufswahl und dem Selbstverständnis
+eigentlich als “Helfer/in und Heiler/in” sozialisiert. Das übliche
+kurative ärztliche Vertrauensverhältnis orientiert sich dabei gezielt am
+persönlichen Wohl der Patienten. Die Ärztin/der Arzt, die/der dieser
+Zielsetzung folgt, erfüllt somit auch die an sie/ihn gerichteten
+Erwartungen der zu begutachtenden Person.
 
-● die Leistungsfinanzierer (Kranken-, Pflege- oder Rentenversicherungen)
+Demgegenüber muss die Ärztin/der Arzt in der speziellen Funktion als
+Gutachter/in den Patienten eher distanziert als „Fall“ bzw. „Objekt“
+betrachten - dies allerdings unabhängig von einem selbstverständlich
+positiv zugewandten Umgang. Das heißt die begutachtende Person muss sich
+bewusst von der einseitigen Orientierung am Wohl und Interesse der
+Patienten lösen. Dies bedeutet allerdings zugleich, auch die unbewussten
+Erwartungen der zu begutachtenden Patienten möglicherweise nicht oder
+nur unvollständig bedienen zu können - obwohl diese/r die Ärztin/den
+Arzt gern weiterhin als „Helfer/in“ vereinnahmen möchte.
 
-● Interessenverbände,
-Interessenvertretungen
+Für das Verhältnis der beiden Seiten bedeutet dies, dass sich hier nicht
+mehr “ärztlich tätige und zu behandelnde Person” im besonderen
+Vertrauensverhältnis, sondern “Begutachtende und zu begutachtende
+Person” in gebotener Distanz gegenüberstehen - für beide Seiten ggfs.
+ungewohnt und Anlass für mögliche Irritationen.
 
-## Öffentliches Gesundheitswesen (Synonym: Öffentliches Gesundheitssystem)
+Andererseits befindet sich nicht nur die ärztlich begutachtende, sondern
+auch die zu begutachtende Person in einem Rollenkonflikt.
 
-Das Öffentliche Gesundheitswesen umfasst alle Bereiche, Einrichtungen
-sowie das planmäßiges Handeln der Akteure des
-Gesundheitswesens(-systems), die der öffentlichen Hand zuzurechnen sind
-und der Gesundheit dienen. Insbesondere dazu gezählt werden
-Krankenhäuser, Sozialversicherungsträger, der Sanitätsdienst der
-Bundeswehr und der ÖGDt. Das Facharztgebiet Öffentliches
-Gesundheitswesen umfasst die Beobachtung, Begutachtung und Wahrung der
-gesundheitlichen Belange der Bevölkerung und der öffentlichen Hygiene,
-die Gesundheitsaufsicht sowie die Verhütung und Bekämpfung von
-Krankheiten und die Beratung der Träger öffentlicher Aufgaben in
-gesundheitlichen Fragen einschließlich Planungs- und Gestaltungsaufgaben
-zu Gesundheitsförderung, Prävention und der gesundheitlichen Versorgung.
+Im typischen kurativ-medizinischen Krankheitsfall ist davon auszugehen,
+dass die zu behandelnde Person ihre Gesundheit gern rasch und
+uneingeschränkt wiedererlangen möchte. Sie wird somit die ärztliche
+Beratung und Hilfe zur Gesundung und Gesunderhaltung aktiv annehmen und
+umsetzen - d.h. die erkrankte Person “will” gesunden.
 
-## Öffentlicher Gesundheitsdienst
+Im Rahmen eines sozialmedizinischen Antragsverfahrens verändert sich
+jedoch die Zielsetzung, d.h. die zu behandelnde Person möchte letztlich
+durch ihren Antrag einen sachlichen oder finanziellen Anspruch als
+sogenannten sekundären Krankheitsgewinn erzielen. Dies bedeutet
+allerdings, dass die zu behandelnde Person ihren Krankheitszustand in
+den Vordergrund rücken muss und eher kein Interesse an einer
+Stabilisierung zeigen wird, um ihren Anspruch nicht zugleich zu
+gefährden oder zu verlieren - d.h. die zu behandelnde Person “darf
+nicht” gesunden.
 
-Der ÖGD ist die Organisation von Dienststellen auf der Ebene von Bund,
-Ländern, Kreisen und Gemeinden, die dem Schutz, der Aufrechterhaltung
-und der Förderung der Gesundheit der Gemeinschaft und des Einzelnen
-dienen. Die gesetzlichen Grundlagen, nach denen der ÖGD tätig wird, sind
-zum Teil bundeseinheitlich geregelt, z.B. das Infektionsschutzgesetz und
-die Trinkwasserverordnung, einzelne Aufgabengebiete werden aber durch
-länderspezifische Gesetze und Verordnungen unterschiedlich gewichtet.
+Auch diesen Aspekt muss die/der Gutachter/in kennen und berücksichtigen,
+um eine mögliche Aggravation nicht zu übersehen und eine objektive
+Begutachtungsbasis zu bewahren.
 
-Der ÖGD ist die Basis des Gesundheitswesens in dem er vorrangig
-bevölkerungsmedizinisch die gesundheitlichen Vor- und Versorgung der
-Bevölkerung leistet, auf dem die ambulanten und stationären
-individualmedizinischen Krankenversorgung aufbaut. Der ÖGD schützt die
-Bevölkerung vor Gesundheitsgefahren, beugt der Entwicklung von
-Krankheiten vor und fördert die Gesundheit. Er wird verkörpert durch
-staatliche Einrichtungen des Bundes, des Landes und der Kommunen und
-agiert immer auf gesetzlichen Grundlage. Die Aufgabenerfüllung obliegt
-zu wesentlichen Teilen den kommunalen Gesundheitsämtern als untere
-Gesundheitsbehörden.
+### Gutachterliche Fachkompetenz
 
-Das Nachwuchsnetzwerk Öffentliche Gesundheit (NÖG) definiert den ÖGD als
-“alle
+Vielfach wird die Frage aufgeworfen, welche spezifische Fachkompetenz
+die sozialmedizinisch begutachtende Person aus eigener klinischer
+Qualifikation aufweisen muss. Die Frage führt in gerichtlichen Verfahren
+mitunter zu irritierenden anwaltlichen Beanstandungen.
 
-Einrichtungen des öffentlichen Dienstes, die auf kommunaler, Landes- und
-Bundesebene schwerpunktmäßig mit Fragen öffentlicher Gesundheit befasst
-sind.” \[Akçay M et al. Öffentliche Gesundheit in Deutschland:.
-Gesundheitswesen, 2018, DOI <https://doi.org/10.1055/a-0795-3477>\].
+Hierzu muss verdeutlicht werden, dass es Aufgabe der sozialärztlich
+begutachtenden Person ist, der auftraggebenden Institution einen
+medizinischen Sachverhalt verständlich zu machen und
+entscheidungsrelevante Aspekte herauszuarbeiten.
 
-## Gesundheitsamt
+Bei vielen sozialmedizinischen Fragestellungen sind in der Regel
+komplexe Multimorbiditäten zu berücksichtigen, so dass es eher auf eine
+Gesamtbewertung im Sinne einer „ganzheitlichen“ Synthese ankommt.
 
-Das Gesundheitsamt ist die untere Gesundheitsbehörde in der öffentlichen
-Verwaltung, die als lokaler Teil des ÖGD in der Kommune entsprechende
-Aufgaben übernimmt.
+Dabei bauen sozialmedizinische Verfahren typischerweise darauf auf, dass
+die zu begutachtende Person sich bereits im Vorfeld wegen ihrer
+Erkrankungen bei, ggf. sogar mehreren, jeweils einschlägig
+qualifizierten, kurativmedizinisch orientierten Fachärzten/innen in
+laufender Behandlung befindet. Deren diagnostische Erkenntnisse, welche
+zugleich auch die Basis für vielfältige therapeutische Ansätze
+darstellen, bieten zugleich das Grundgerüst für den sekundären
+sozialrechtlichen Anspruch.
 
-Neben dem Begriff „Gesundheitsamt“ werden auch andere Bezeichnungen wie
-„Fachdienst Gesundheit“, „Gesundheitsabteilung“ oder auch „Sachgebiet
-Gesundheitswesen“ benutzt.
+Es ist deshalb gerade nicht Aufgabe einer sozialmedizinisch
+begutachtenden Person, eine bessere Diagnostik und
+Differentialdiagnostik bzw. Therapiekonzeption zu leisten als die/der
+behandelnde Haus- bzw. Fachärztin/arzt.
 
-In den Gesundheitsdienstgesetzen der Länder, die die rechtliche
-Grundlage für die Aufgaben und Tätigkeit des ÖGD darstellen, wird zum
-Teil von unterer Gesundheitsbehörde gesprochen zumeist wird jedoch der
-Begriff “Gesundheitsamt” verwendet. Im Folgenden wird hier durchgängig
-die Bezeichnung Gesundheitsamt benutzt .
+Für die meisten sozialmedizinischen Verfahren muss daher die
+begutachtende Person nicht zwingend einschlägig als Fachärztin oer
+Facharzt für eines der zu berücksichtigenden Gesundheitsprobleme
+qualifiziert sein – vielmehr kommt es auf eine sorgfältige Anamnese,
+eine umfassende Beiziehung und Plausibilitätsprüfung relevanter
+Fremdbefunde sowie eine kompetente Gesamtschau und
+summarisch-integrative Bewertung an.
 
-## Gesundheitsschutz
+Diese Erkenntnisse sind - über den kurativ-medizinischen Ansatz hinaus -
+in einen sozialrechtlichen Kontext zu stellen, unter Heranziehung evtl.
+vorgegebener Kriterien zu gewichten und der entscheidungsbefugten Stelle
+sachkundig aufbereitet zu vermitteln.
 
-Gesundheitsschutz ist die Abwehr von erwartbaren unmittelbaren
-Gefährdungen der Gesundheit. Üblicherweise werden dazu der
-Infektionsschutz, gesundheitlicher Katastrophenschutz, umweltbezogener
-Gesundheitsschutz und Lebensmittel- sowie Trinkwasserschutz gezählt.
+Diese Herangehensweise ist in den verschiedenen sozialrechtlichen
+Verfahren weitgehend analog zu sehen - mit Ausnahme von gezielt an der
+konkreten Fachthematik orientierten Spezialgutachten - z.B. zu
+Unfallzusammenhängen und Unfallfolgen. Diese erfordern im Vergleich
+einen erheblich gezielteren Bezug zur konkreten Behandlungssituation und
+einen dementsprechend einschlägigen fachspezialisierten
+Erfahrungshorizont.
 
-## Volksgesundheit, Bevölkerungsgesundheit
+### Verpflichtung zur Gutachtenerstellung
 
-Die Begriffe Volks-/Bevölkerungsgesundheit sind auf Grund der deutschen
-Geschichte zum Teil noch negativ besetzt. Aber auch die inhaltliche
-Zuordnung ist schwierig, da die Begriffe die Zielgruppen des ÖGD nicht
-vollständig abbilden. Bevölkerung meint üblicherweise den Anteil der
-Menschen, die in einer bestimmten geografischen Region zu einem
-bestimmten Zeitpunkt wohnen.
-\[https://www.duden.de/rechtschreibung/Bevoelkerung\] Der ÖGD ist jedoch
-mit allen Menschen befasst, die sich zu einer bestimmten Zeit in einer
-bestimmten Region aufhalten (vgl. öffentliche Gesundheit).
+Grundsätzlich ergibt sich die Verpflichtung zur Erstellung eines
+amtsärztlichen Gutachtens aus der dienstlichen Funktion und der
+gesetzlichen Aufgabenzuweisung an die Gesundheitsbehörde (ggf. nach
+Bundesländern variierend).
 
-In der epidemiologischen Forschung wird üblicherweise mit
-wissenschaftlichen Methoden auf die Bevölkerung Bezug
-genommen.
+Bei gerichtlich angeforderten Gutachten ergibt sich die Verpflichtung
+aus der mit dem Auftrag ergehenden Bestellung (gemäß
+Zivilprozessordnung/Strafprozessordnung) - bei namentlich-persönlicher
+Beauftragung ohnehin, bei Beauftragung der Behörde wiederum aus der
+internen Zuweisung.
 
-## Bevölkerungsmedizin (Populationsmedizin, Gemeindemedizin, engl. population medicine, community medicine)
+Allerdings kann bzw. muss ein/e beauftragte/r Gutachter/in in besonderen
+Fällen aus Gründen der Befangenheit oder drohenden Voreingenommenheit
+einen Begutachtungsauftrag ablehnen, beispielsweise wenn zwischen den
+Beteiligten :
 
-Bevölkerungsmedizin ist die Wissenschaft des gesunden und kranken
-menschlichen Organismus, von den Krankheiten der Bevölkerung und deren
-Verhütung und Heilung mit dem Ziel der Verbesserung der Gesundheit der
-Gesamtbevölkerung durch einen multisektoralen Ansatz zur Bewältigung von
-Gesundheitsproblemen und zur Verringerung von Disparitäten. Sie umfasst
-Aspekte der kurativen Medizin, des Gesundheitsschutzes und der
-Primärprävention, basiert auf medizinischen und
-gesundheitswissenschaftlichen Qualifikationen und ist ohne kommerzielle
-Interessen gemeinwohlorientiert. Dabei liegt der Fokus verstärkt auf dem
-Wohlergehen einer Gesellschaft bei gleichzeitiger Wahrung der Rechte und
-Integrität von Individuen.
+  - zuvor schon einmal eine anderweitige Beziehung z.B. aus ärztlicher
+    Behandlung bestanden hat oder besteht,
 
-(Zum Begriff “Bevölkerung” siehe Kommentar zu Bevölkerungsgesundheit.)
+  - eine andere familiäre, soziale oder sonstige Beziehung besteht.
 
-## Sozialmedizin (auch Soziale Medizin)
+Die erstgenannte Thematik ist je nach Fragestellung offen zu handhaben.
+Eine Doppelfunktion mit therapeutischen Aspekten und gutachterlichen
+Aufgaben ist gerade im psychiatrischen Fachbereich nicht unüblich, bspw.
+in der Klinik oder im Sozialpsychiatrischen Dienst.
 
-Bezeichnet die Forschung, Lehre und Praxis zu den Wechselwirkungen von
-Gesundheit, Krankheit, Individuum und Gesellschaft unter besonderer
-Berücksichtigung von sozialen Determinanten und Folgen, sowie der
-Gesundheits- und Sozialversicherungssysteme.  
-(REF. www.dgsmp.de)
+Eine tatsächliche persönliche Befangenheit kann sich neben familiären
+oder nachbarschaftlichen Aspekten auch aus sonstigen Beziehungen ergeben
+- wobei hierbei kein zu strenger Maßstab angelegt werden sollte. So wird
+allein die Tatsache, z.B. bei gleicher Behörde tätig zu sein und sich
+ggfs. im Haus oder in anderen dienstlichen Angelegenheiten begegnen zu
+können, kaum als Befangenheit in einem beamtenrechtlichen Einstellungs-
+oder Dienstfähigkeits-Verfahren bewertet werden können. In
+Zweifelsfällen kann es sinnvoll sein, die zuständige vorgesetzte Stelle
+zur Prüfung der Befangenheit, Absicherung der Neutralität durch ein
+kontrollierendes 4-Augen-Prinzip oder ggfs. Umsteuerung des Auftrags
+einzuschalten.
 
-## Sozialhygiene
+Darüber hinaus kann ein Begutachtungsauftrag zurückgewiesen werden, wenn
+die zu begutachtende Problematik erkennbar eine besondere Kompetenz oder
+sonstige Ausstattung erfordert, die persönlich oder aus den
+Rahmenbedingungen heraus nicht gegeben ist - und auch nicht z.B. im
+Rahmen eines ergänzenden Zusatzgutachtens beigezogen werden kann. Dies
+hat die beauftragte begutachtende Person schon mit Sichtung des Auftrags
+im Rahmen der ihm obliegenden Sorgfalt zu prüfen, um sich nicht ein
+sogenanntes Übernahmeverschulden vorhalten zu lassen, wenn später die
+fachliche Qualität oder gar generelle Verwendbarkeit des Gutachtens
+angegriffen werden könnte.
 
-Hierbei handelt es sich um einen, vor allem historischen, Begriff, der
-die Forschung, Lehre und Praxis der Erhaltung, Förderung und
-Wiederherstellung der Gesundheit der Menschen als Mitglieder der
-Gesellschaft umfasst (REF: Winter, Lehrbuch der Sozialhygiene, 1967
-Berlin).
+Ob und inwieweit innerhalb eines Amtes die erwünschten fachlichen
+Kompetenzen vorgehalten werden können, muss in der entsprechenden
+Gesundheitsbehörde geklärt werden.
 
-Die Sozialhygiene war als eigene Fachdisziplin in der zweiten Hälfte des
-19. Jahrhunderts aus der Verbindung von
-medizinisch-naturwissenschaftlichen und gesellschaftswissenschaftlichen
-Erkenntnissen hervorgegangen. Sie dominierte damals das Gebiet
-öffentlicher Gesundheitsbelange weltweit. (Ref Wilfried Heinzelmann.
-Sozialhygiene als Gesundheitswissenschafg 2009 Transcript Verlag
-Bielefeld).
+### Haftung der begutachtenden Person
 
-In der ehemaligen Deutschen Demokratischen Republik wurde Sozialhygiene
-als übergeordneter Begriff für die Aufgaben des Staates für die
-Bevölkerungsgesundheit verwendet.
+Die Haftung für die sachliche und fachliche Richtigkeit in der
+Erstellung eines amtsärztlichen Gutachtens wird nach den Regeln
+geregelt, die für jegliche dienstliche Tätigkeit im Amt gelten. Wenn und
+solange die begutachtende Person diese Funktion als Mitarbeitende der
+Behörde wahrnimmt, ist für mögliche Mängel oder Schäden primär der
+Dienstherr haftbar zu machen. Dieser sollte dazu meist über eine
+entsprechende verbandliche Haftpflichtversicherung abgesichert sein.
 
-## Gesundheitswissenschaften
+Die gutachterlich tätigen Mitarbeitenden können lediglich bei
+vorsätzlichem oder grob fahrlässigem Fehlverhalten oder entsprechenden
+Fehlern im Nachgang in sogenannten Regress genommen werden, d.h. intern
+zu einem Schadenersatz in Anspruch genommen werden.
 
-Als Gesundheitswissenschaften wird u.a. das “Ensemble von
-wissenschaftlichen
-
-Einzeldisziplinen, die auf einen gemeinsamen Gegenstandsbereich
-gerichtet sind, nämlich die Analyse von Determinanten und Verläufen von
-Gesundheits- und Krankheitsprozessen und die Ableitung von
-bedarfsgerechten Versorgungsstrukturen und deren systematische
-Evaluation unter Effizienzgesichtspunkten” verstanden. Danach liegt im
-Zentrum des Erkenntnisinteresses der Gesundheitswissenschaften die
-Verbesserung der Gesundheit der Bevölkerung durch Krankheitsverhütung
-und Gesundheitsförderung. \[REF. Hurrelmann, Razum, Handbuch
-Gesundheitswissenschaften, ISBN 978-3-7799-0797-8 2012 Beltz Juventa
-Verlag, Weinheim Basel\]”.
-
-Zu den wissenschaftlichen Fachdisziplinen, die sich mit natur- und/oder
-gesellschaftswissenschaftlichen Methoden mit der Beschreibung, Analyse
-und Verbesserung der öffentlichen Gesundheit im Sinne der
-Gesundheitswissenschaften auseinandersetzen, werden unter anderem die
-Gesundheitsökonomie, die Epidemiologie und die Versorgungsforschung
-gezählt.
-
-## Public Health - und die Verwendung des Begriffs in Deutschland
-
-Im anglo-amerikanischen Sprachgebrauch wird der Begriff Public Health
-als Fachgebiet definiert, das sich mit der Praxis und Wissenschaft der
-Vermeidung von Krankheiten, Gesundheitsförderung und Verlängerung von
-Leben durch die organisierten Bemühungen der Gesellschaft beschäftigt.
-(“Public health is the art and science of preventing disease,
-promoting health, and prolonging life through organized efforts of
-society.” (Ref: Committee of Inquiry into the Future of Development of
-the Public Health Function (1988): Public Health in England. London:
-HMSO, Cmd 289.) In Deutschland wird der in den 1980er Jahren aus dem
-Englischen eingeführte Begriff “Public Health” von unterschiedlichen
-Akteuren im Gesundheitswesen, und darüber hinaus, oftmals uneinheitlich
-benutzt und verstanden.
-
-Darüber hinaus wird in Diskussionen zur Begriffsbestimmung von Public
-Health, dieser Begriff weiterhin in eine sogenannte “Old” Public Health
-und “New” Public Health unterteilt.
-
-## Old and New Public Health
-
-\[Abb. aus: \[Hurrelmann, Razum, Handbuch Gesundheitswissenschaften,
-ISBN 978-3-7799-0797-8 © 2012 Beltz Juventa Verlag, Weinheim Basel\]
-
-Aus der Diskussion zur Verwendung des Anglizismus “Public Health” in
-Deutschland resultierten jahrzehntelang und zum Teil auch aktuell noch
-fortbestehende Grabenkämpfe der Experteninnen und Experten zum
-Verständnis und dem Verhältnis von Public Health,
-Gesundheitswissenschaften, Bevölkerungsgesundheit, Öffentliche
-Gesundheit, ÖGD, Öffentliches Gesundheitswesen und in den letzten Jahren
-zunehmend auch zum Thema Global Health.
-
-Heute verwenden vor allem akademischen Einrichtungen in Deutschland die
-Bezeichnung „Public Health“ in Lehre und Forschung. Dass der Begriff von
-diesen bis heute nicht ins Deutsche übertragen wurde zeigt, dass
-akademische Einrichtungen ihr Selbstverständnis eher in der Nähe
-anglo-amerikanischer “Schools of Public Health” Vorbildern verorten und
-nicht im Bezug zu existierenden Einrichtungen des ÖGD.
-Maschewsky-Schneider hat 2005 aus ihrer Perspektive die Entwicklungen
-seit den 1980er Jahren in Deutschland wie folgt beschrieben: “Orientiert
-an Lehr- und Forschungskonzepten der amerikanischen und englischen
-Schools of Public Health wurde der Begriff „Public Health“ aus dem
-Englischen übernommen; eine Einigung unter den Wissenschaftlern auf ein
-deutsches Pendant zu diesem Begriff konnte nicht gefunden werden. Die
-direkte Übersetzung „Öffentliche Gesundheit“ hätte das Fach zu sehr in
-Richtung öffentlicher Gesundheitsdienst (ÖGD) gerückt. Von diesem
-wollte man sich jedoch gerade absetzen.” (REF. Maschewsky-Schneider U,
-Zur Situation von Public Health in Deutschland. Bundesgesundheitsbl -
-Gesundheitsforsch - Gesundheitsschutz 2005 · 48:1138–1144
-
-DOI 10.1007/s00103-005-1139-x)
-
-## “Öffentliche Gesundheit” als Gemeingut
-
-Die Auslegung des Begriffes “öffentlich” (engl. public) in “öffentliche
-Gesundheit“ (engl. public health) vor allem als die Gesundheit einer
-Bevölkerung/Population vernachlässigt, dass der Ursprung des Begriffes
-“ publicus” auch als “öffentlich” oder “dem Volk gehörig” übersetzt
-werden kann. In der Tat stellt Gesundheit und gesundheitliche Versorgung
-aller Menschen einer Bevölkerung, genau wie soziale Lebensgrundlagen,
-öffentlicher Nahverkehr oder das Recht auf Bildung eine öffentliche
-Angelegenheit (res publica), ein Gemeingut, im klassischen Sinn dar.
-Gemeingüter sind dadurch charakterisiert, dass sie gemeinsam genutzt
-werden, Missbrauch mit Sanktionen belegt wird und sie staatlich
-reguliert und überwacht sind.
-
-Aus diesem Grund sind auch in Deutschland das Gemeingut Gesundheit und
-die gesundheitliche Versorgung der Menschen in einer Gesellschaft zu
-erhalten und Aufgaben und Einrichtungen im Bereich der Öffentlichen
-Gesundheit gesetzlich geregelt. So wird das öffentliche Interesse der
-Gesellschaft an Gesundheit vertreten.
-
-In Deutschland gehören daher insbesondere zu den Diensten, die
-Gesundheit im öffentlichen Interesse gewährleisten, die kommunalen
-Gesundheitsämter sowie Behörden auf Landes- oder Bundesebene.
-
-Auch wenn verschiedene, oftmals historische Gründe, zu starken
-Auseinandersetzungen und Differenzen zwischen den theoretischen und
-praktischen Bereichen in der Öffentlichen Gesundheit geführt haben
-\[REF: Kurth B.: Bundesgesundheitsbl - Gesundheitsforsch -
-Gesundheitsschutz 2005 · 48:1093–1094 DOI 10.1007/s00103-005-1148-9 ÖGD
-und Public Health: Vom Fremdeln übers gegenseitige Akzeptieren zur
-Liebesheirat?\] ist es angesichts der aktuellen Herausforderung für die
-öffentliche Gesundheit dringend erforderlich, weitere Schritte auf dem
-Weg zu einem gemeinsamen Einsatz für Gesundheitsschutz,
-Krankheitsvermeidung und Gesundheitsförderung der Bevölkerung auf
-lokaler, regionaler, nationaler und globaler Ebene zu gehen.
-Herausforderungen für die Gesundheit auf Bevölkerungsebene wie bspw.
-Epidemien mit globalem Bedrohungspotential, die steigende Krankheitslast
-durch nicht-übertragbare Erkrankungen (NCDs) inklusive mentaler
-Gesundheit, vernachlässigte Gesundheitsprobleme wie Unfälle und
-Verletzungen und globale Transformationen wie der Klimawandel fragen
-nicht nach Zuständigkeitsabgrenzungen und tradierten Kompetenzbereichen.
-Exkludierende Ansätze sind daher gerade angesichts aktueller
-Herausforderungen nicht zielführend. Daher wird zunehmend gefordert,
-unterschiedliche Ansätze und Interpretationen zu überwinden, die
-einzelne Fachbereiche ausschließen oder einzelne Disziplinen dominieren
-lassen *\[REF: Von Philipsborn P, Geffert K, Hommes F, Drees S, Springer
-J, Stratil J (2018): Öffentlicher Gesundheitsdienst, Weg von verstaubten
-Klischees, Dtsch Arztebl 2018; 115(8): A-328; Hommes F, von Philipsborn
-P, Geffert K, Karduck L (2016): Public und Global Health in Deutschland
-– Eine Stellungnahme zur aktuellen Debatte. Das Gesundheitswesen,
-78:126-129, B.-M. Kurth\].*
-
-Im ÖGD sind bereits adäquate Anerkennung und Würdigung gegenseitiger
-Fachkompetenz und eine gelebte Interdisziplinarität integraler
-Bestandteil der praktischen alltäglichen Arbeit. Das spiegelt sich in
-der breiten, inter- und multidisziplinären (Zusammen-)arbeit innerhalb
-der Einrichtungen des ÖGD wider.
-
-Weitere Schritte in Richtung einer verstärkten interdisziplinären
-Zusammenarbeit und Vernetzung wurden insbesondere im Rahmen des
-Zukunftsforum Public Health und durch das Nachwuchsnetzwerk Öffentliche
-Gesundheit gemacht.
-
-Auch weisen bereits viele praktische Arbeitsgebiete des ÖGD, wie etwa
-die medizinische Versorgung von Geflüchteten, mentale Gesundheit und
-antimikrobielle Resistenzen, heute in Zeiten einer zunehmend
-globalisierten Welt untrennbar wichtige Aspekte von Öffentlicher
-Gesundheit mit den Aspekten globaler Gesundheit auf, die bereits lange
-integriert sind, auch wenn sie möglicherweise nicht immer primär als
-solche wahrgenommen werden. 2017 wurde auf der Jahrestagung des
-Berufsverband der Ärztinnen und Ärzte des Öffentlichen
-Gesundheitsdienstes (BVÖGD) das Thema “Global Health” als eine mögliche
-Zukunftsperspektive im Rahmen der Diskussion zum Leitbilds des ÖGD
-diskutiert \[Ref\_
-h[ttps://www.lgl.bayern.de/aus\_fort\_weiterbildung/veranstaltungen/kongresse\_veranstaltungen/doc/oegd\_kongress\_2017/gesundheit-fuer-alle\_oegd-kongress\_2017\_barrierefrei\_final.pdf](https://www.lgl.bayern.de/aus_fort_weiterbildung/veranstaltungen/kongresse_veranstaltungen/doc/oegd_kongress_2017/gesundheit-fuer-alle_oegd-kongress_2017_barrierefrei_final.pdf).
-
-## Globale Gesundheit (engl. global health)
-
-Globale Gesundheit wird als interdisziplinäres Gebiet beschrieben, das
-alle Themen umfasst, die Gesundheit von Menschen auf Bevölkerungsebene
-betreffen, einer globalen Zusammenarbeit bedürfen und bei denen
-gesundheitliche Chancengleichheit und soziale Gerechtigkeit eine große
-Rolle spielen. \[REF: Koplan J, Bond T, Merson M, et al.: Towards a
-common definition of global health. Lancet 2009: 1993–5.\]
-
-Themen und Herausforderungen globaler Gesundheit sind auf globaler,
-nationaler, regionaler und lokaler Ebene relevant für die Gesundheit auf
-bevölkerungs- und individualmedizinischer Ebene. Dabei beschränkt sich
-globale Gesundheit weder auf sozial-, noch biomedizinische Aspekte,
-sondern integriert diese in einem interdisziplinären Ansatz.
+Bei berufstypisch sorgfältigem Vorgehen in der Bearbeitung einer
+Begutachtung dürfte dies allerdings kaum einmal in Betracht kommen.
 
 <div class="section fnlist" data-role="doc-footnotes">
 

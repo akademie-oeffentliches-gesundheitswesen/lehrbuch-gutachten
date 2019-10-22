@@ -1,7 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 
-
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -9,14 +7,13 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
-
-title: Lehrbuch ÖGD
+title: Lehrbuch Gutachten im ÖGD
 
 github: [metadata]
 
 # Aux links for the upper right navigation
 aux_links:
   "Lehrbuch auf GitHub":
-    - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
+    - ""
     
 logo: "akademie.jpeg"

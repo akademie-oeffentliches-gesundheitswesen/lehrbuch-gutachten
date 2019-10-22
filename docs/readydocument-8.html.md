@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LB-ÖGD_08 Aus-, Fort- und Weiterbildung
+title: 08. Wichtige rechtliche Rahmenbedingungen
 nav_order: 8
 ---
  
@@ -16,826 +16,503 @@ nav_order: 8
    <p></p>
  
  
-# Aus-, Fort- und Weiterbildung im Öffentlichen Gesundheitsdienst
-
-### Ausgangslage und Herausforderung
-
-Deutschland verfügt über ein umfassendes System um fachkundiges Personal
-im Bereich der öffentlichen Gesundheit zu qualifizieren. Diese werden
-nach Whitfield (REF:Whitfield, M. (2004). “Public health job market) in
-folgende drei Kategorien eingeteilt werden:
-
-1.  1\. „SpezialistInnen für Öffentliche Gesundheit“ (u.a.
-    GesundheitspolitikerInnen, Fachärzte/innen für Öffentliches
-    Gesundheitswesen, EpidemiologInnen, Hygienekontrolleure),
-
-2.  2\. „Personen, die indirekt durch ihre Arbeit an Aktivitäten im
-    Bereich der öffentlichen Gesundheit beteiligt sind“ (u.a.
-    PharmazeutInnen, PsychologInnen) und
-
-3.  3\. „Personen, die sich der Auswirkungen auf die öffentliche
-    Gesundheit in ihrem Berufsleben bewusst sein sollten“ (u.a.
-    LehrerInnen, JournalistInnen).
-
-Hinsichtlich der Qualifizierungen des Personal im Bereich der
-öffentlichen Gesundheit zeigen sich in Deutschland unterschiedlichen
-Bereichen: Die Lehrelandschaft der Universitäten und Hochschulen ist
-zersplittert und es existieren zahlreiche heterogene Studiengänge mit
-einem Bezug zu relevanten Kompetenzen, sowie eine unübersichtliche
-Anzahl an Ausbildungsgängen .
-
-In vielen Studiengängen gibt es häufig weder ein Kernkurrikulum noch
-definierte Kernkompetenzen für perspektivische Tätigkeit im Bereich
-Öffentlich Gesundheit, welche allen Absolventen/innen vermittelt werden
-(müssten). Grundsätzlich fehlt den meisten Qualifizierungen im Bereich
-Öffentliche Gesundheit bzw. Master in Public Health o.ä. die
-Vermittlung von relevante Kompetenzen um im ÖGD praktische Arbeiten zu
-können sowie eine gemeinsame Identifikation hinsichtlich der ÖGD
-Berufsfeldern mit anderem PH Personal.
-
-Anderseits steht insbesondere der Öffentliche Gesundheitsdienst (ÖGD)
-als einer der potentiellen attraktivsten Arbeitgeber für
-Spezialisten/innen im Bereich Öffentliche Gesundheit vor einer Reihe von
-Herausforderungen: Es fehlt insbesondere an ärztlichem Personal, da die
-aktuellen Karrierewege und der Verdienst hier für Mediziner/innen wenig
-attraktiv sind. Auch eine akademische Entwicklung, inklusive
-Forschungsmöglichkeiten, sind im ÖGD bisher stark limitiert.
-
-Um eine Stärkung von Spezialisten (Kategorie 1 nach Whitfield) zu
-erreichen, werden für die Aus- und Weiterbildung zukünftig folgende
-Ziele festgelegt werden müssen: Einigung auf einen grundlegenden Kanon
-an Wissen und Kompetenzen, Integration von im ÖGD wichtige Kenntnisse in
-das (Medizin-/Psychologie/Sozialarbeit-)Studium, Aufzeigen von
-Karrierewegen, Angebote für Quereinsteiger/innen, Stärkung der
-professionellen Leitbilder.
-
-In den Ausbildung von Gesundheitsberufen mit Schwerpunktsetzung
-Öffentliche Gesundheit (Kategorie 2 nach Whitfield) sollten spezifische
-Angebote in Studium und der Ausbildung, sowie Postgraduierten Programme
-für die Weiterbildung geschaffen werden. Hinsichtlich der Ausbildung von
-anderen Berufsgruppen (Kategorie 3 nach Whitfield) sollten Kooperationen
-zur Erweiterung der Lehre und damit des Bewusstseins der Berufsgruppen
-angestrebt werden.
-
-### Öffentlicher Gesundheit im Medizinstudium
-
-#### Ausgangslage
-
-Öffentliche Gesundheit unterscheidet sich durch ihren (präventiven)
-Bevölkerungsbezug und hohe Multiprofessionalität sowohl innerhalb der
-ärztlichen Berufe, als auch unter den medizinischen Assistenzberufen,
-von klassischen klinischen Fächern der Medizin.
-
-Aus diesem Grund sollten Medizinstudierende die Möglichkeit erhalten,
-Öffentliche Gesundheit theoretisch und praktisch kennenzulernen. Für
-angehende Ärzte/innen ist es essentiell, ein Grundverständnis für die
-sozialen, politischen, ökonomischen und ökologischen Determinanten von
-Gesundheit zu entwickeln, um den Herausforderungen medizinischer Praxis
-besser begegnen zu können.
-
-Darüber hinaus ist eine Verankerung des Themengebietes Öffentliche
-Gesundheit an deutschen medizinischen Fakultäten, mit intensivem Bezug
-zum Medizinstudium, zwingend notwendig, um international
-Vergleichbarkeit in der Aus-, Fort- und Weiterbildung sicherzustellen.
-Dazu muss das Thema Öffentliche Gesundheit im Medizinstudium
-positioniert und in der Approbationsordnung für Ärzte verankert werden.
-Praktische Ausbildungsanteile im Medizinstudium (Famulaturen,
-Praktisches Jahr) sollten grundsätzlich in verschiedenen Fachgebieten
-der Gesundheitsämter absolvierbar sein, wie bereits die
-Gesundheitsministerkonferenz der Länder in entsprechenden Beschlüssen
-2013 und 2014 forderte.
-
-Zwar ist das Querschnittsfach „Gesundheitsökonomie, Gesundheitssystem
-und Öffentliches Gesundheitswesen“ seit 2002 durch die ärztliche
-Approbationsordnung im Medizinstudium fest verankert. Wie das Fach an
-den Universitäten vor Ort gelehrt und gelernt wird, ist jedoch meist
-sehr unterschiedlich und zum Teil unzureichend. Auch spielt der ÖGD als
-Lehrinhalt innerhalb dieses Querschnittsfachs meist nur eine geringe
-Rolle. Aktuelle Forschungsergebnisse zeigen, dass drei Viertel der
-Gesundheitsämter, als Teil des ÖGW, sich bereits in der Lehre an
-Hochschul- und Universitäts-Standorten engagieren und dass das
-Berufsfeld des ÖGD dabei einen Anteil von 30% der Lehrveranstaltung
-ausmacht.
-\[h[ttps://www.akademie-oegw.de/die-akademie/leitbild-oegd.html](https://www.akademie-oegw.de/die-akademie/leitbild-oegd.html)\]
-
-So wichtig medizinische Maßnahmen, individuelle Patientenversorgung,
-technische Entwicklungen und auch die Sorge um seltene Erkrankungen
-sind, bedarf es im Medizinstudium auch einer adäquaten Anerkennung und
-eines Verständnisses für die Bedeutung von Maßnahmen der öffentlichen
-Gesundheit auf Bevölkerungsebene.
-
-Hierzu gehört insbesondere auch ein Verständnis für die Bedeutung multi-
-und interdisziplinärer Zusammenarbeit und die Erkenntnis, dass
-nicht-kurative medizinische Bereiche einen wesentlichen Einfluss auf die
-öffentliche Gesundheit haben. Diese reichen von der Sozialgesetzgebung
-über Abwasserversorgung bis hin zur Süßgetränkesteuer und kommunalen
-Verkehrsplanung.
-
-Die gesetzlichen Vorgaben der ÄAppO besagen u.a.:
-
-“Die Ausbildung soll grundlegende Kenntnisse, Fähigkeiten und
-Fertigkeiten in allen Fächern vermitteln, die für eine umfassende
-Gesundheitsversorgung der Bevölkerung erforderlich sind.” \[§ 1 Abs.
-1\].
-
-Obwohl die Gesundheitsversorgung der Bevölkerung in der ÄAppO explizit
-benannt ist, ist derzeit das Medizinstudium in Deutschland derzeit
-vorwiegend individualmedizinisch ausgerichtet und
-Bevölkerungsmedizinische Lehre fehlt vielfacht. Der größte Teil der
-medizinischen Ausbildung fokussiert sich auf die Pathogenese, die
-Diagnostik, Therapie und ggf. Rehabilitation von Pathologien. Bereits
-die Lancet Comission on medical education for the 21st century
-kritisiert eine solche Art der Ausbildung: “fragmented, outdated, and
-static curricula are producing ill-equipped graduates.” (Frenk et al,
-2010), weil - gerade im stationären Bereich - oft die Akutversorgung im
-Vordergrund steht. Nicht zuletzt aber auch, weil ärztliches Personal für
-eine Beachtung und Beantwortung Bevölkerungsmedizinischer Fragen kaum
-sensibilisiert und geschult ist und viele der Aspekte über ihren
-Kernkompetenz- und Verantwortungsbereich hinausgehen.
-
-Um der Patientenversorgung im 21. Jahrhundert gerecht zu werden,
-benötigt es eines umfassenden Verständnis dessen, was Menschen krank
-macht und gesund erhält und somit eine Sensibilität für die sozialen,
-politischen, ökonomischen, ökologischen und politischen Determinanten
-von Gesundheit.
-
-##### Vom Lernzielkatalog zum Prüfungsinhalt
-
-Der 2015 vom Medizinischen Fakultätentag und GMA verabschiedete
-Nationale Kompetenzbasierte Lernzielkatalog Medizin (NKLM)
-\[<http://www.nklm.de/kataloge/nklm/lernziel/uebersicht>\] weist an
-mehreren Stellen Bezüge zur öffentlichen Gesundheit und
-Bevölkerungsmedizin auf. Insbesondere im Kapitel 19
-“Gesundheitsförderung und Prävention” werden viele Kompetenzen und
-Teilkompetenzen gefordert, die Medizinstudierende auf die Rolle eines
-“Gesundheitsfürsprechers und -beraters im individualmedizinischen und
-auch im bevölkerungsmedizinischen Zusammenhang.”
-\[<http://www.nklm.de/files/nklm_final_2015-07-03.pdf>\] vorbereiten
-soll. Obwohl hierbei zahlreiche Aspekte und Aktivitäten genannt sind,
-wie etwa Gesundheitsbericherstattung, Beratung zu Gesundheitsföderungs-
-und schutzmaßnahmen, Präventionsmaßnahmen für Kinder oder Vermittlung
-von Gesundheitsinformationen, welche für die praktische Arbeit im ÖGD
-relevant sind, wurde gezeigt, dass der ÖGD als Institution auf den 346
-Seiten des NKLM nur an einer Stelle exemplarisch erwähnt ist. Des
-Weiteren wurde gezeigt, dass die vom IMPP zentral gestellten
-Staatsexamina den ÖGD nicht oder kaum als Prüfungsgegenstand beinhalten
-\[<https://www.aerzteblatt.de/pdf.asp?id=196428>\]. Nur wenn Lernziele
-zu öffentlicher Gesundheit und zum ÖGD ausreichend umfangreich und
-explizit definiert sind und sich diese auch als Prüfungsgegenstand
-wiederfinden, kann davon ausgegangen werden, dass den Inhalten in Lehre
-und Lernen ausreichend Beachtung zukommt.
-
-#### Reformen im Medizinstudium
-
-Das Medizinstudium befindet sich aktuell in mehreren Reformprozessen,
-die wegweisend für die zukünftigen Jahre/Jahrzehnte und die
-Ausbildungsinhalte der nächsten Medizinstudierendengeneration sein
-können. Neben dem Masterplan 2020 geht es insbesondere um die Reform
-NKLM sowie der vom IMPP herausgegebenen Gegenstandskataloge, welche die
-Grundlage für die medizinischen Staatsexamina bilden. Diese Reformen
-bilden die Chance zur stärkeren und expliziten Integration von Inhalten
-öffentlicher Gesundheit in die Inhalte des NKLM sowie als für alle
-Studierenden relevante
-Prüfungsinhalte.
-
-#### Interesse an Public und Global Health als erster Schritt ins öffentliche Gesundheitswesen\!?
-
-Dass sich viele Medizinstudierende neben bio-und individualmedizinischen
-Aspekten für bevölkerungsmedizinische Aspekte, soziale Determinanten,
-Public Health und Global Health interessieren, spiegelt sich auf
-unterschiedliche Weise wider: Immer mehr Medizinstudierende besuchen
-Wahlfächer mit Public und Global Health Inhalten oder bauen diese
-selbstständig auf \[REF\]. Hierin liegt eine große Chance für die
-Stärkung des ÖGW in Deutschland. Eine Vielzahl von Medizinstudierenden
-beginnt das Medizinstudium mit einem diffusen Interesse daran “etwas
-sinnvolles zu tun”, “zu helfen”, “international zu arbeiten”. Daraus
-resultiert oftmals der Wunsch in der Entwicklungszusammenarbeit (EZ)
-oder Humanitären Hilfe tätig zu werden. Grund hierfür ist sicherlich
-auch die große Präsenz dieser Bereiche und die Überzeugung auf diesem
-Wege vielen Menschen direkt und unmittelbar helfen zu können. Dass es
-jedoch auch vor der eigenen Haustür bzw. auf lokaler, regionaler und
-nationaler Ebene viele sinnvolle Wege gibt, sich für besonders
-vulnerable Gruppen einzusetzen, sollte durch den ÖGD und das ÖGW
-insgesamt deutlicher gemacht
-werden.
-
-#### Einrichtung von Lehrstühlen und Instituten für Öffentliche Gesundheit
-
-Um Aspekte der öffentlichen Gesundheit stärker in der medizinischen
-Ausbildung zu verankern und die Arbeit des ÖGD unter Medizinstudierenden
-und in der Bevölkerung bekannter zu machen, bedarf es dringend der
-Schaffung weiterer Lehrstühle und Institute für Öffentliche Gesundheit
-\[REF\].
-
-“Als zentrales Element des **Johann-Peter Frank Kooperationsmodells**
-vernetzen sich die Akademien für Öffentliches Gesundheitswesen in
-Düsseldorf und München strukturiert und mit Ressourcen unterlegt mit
-universitären und anderen kompetenztragende Einrichtungen.
-
-Um die Zusammenarbeit in Lehre und Forschung zu fördern werden,
-universitäre Lehrstühle für Öffentliche Gesundheit bzw. akademische
-Brückenprofessuren insbesondere an den Akademien in Düsseldorf, München
-und anderen Orten in gemeinsamer Trägerschaft mit kooperierenden
-Universitären benötigt. “ [\[1\]](#_msocom_1)
-
-#### Best-practice: ** „Wir brauchen mehr Leuchttürme“
-
-Es sollte flächendeckend die Möglichkeit existieren Famulaturen und
-PJ-Tertiale in Gesundheitsamt und anderen Einrichtungen des ÖGW zu
-absolvieren, um dort praktische Einblicke und Erfahrungen zu bekommen
-und diesen Bereichen neben Famulatur und PJ im ambulanten und
-stationären Bereich als “geregelten” 3. Bereich zu würden. Bislang
-erkennen die Landesprüfungsämter entsprechende praktische Erfahrungen
-jedoch nur in einigen
-
-Bundesländern an. \[Pientka K, Gottschalk R: Praktisches Jahr
-
-im Gesundheitsamt möglich? Arbeitsmed Sozialmed Praventivmed 2017;
-
-2017: 20–2.\] Hier ist noch ein langer Weg an Reform und Strukturausbau
-zurückzulegen.
-
-An einigen Standorten in Deutschland ist eine Integration von ÖGD-Praxis
-in der medizinischen Aus- und Weiterbildung bereits gelungen. So bietet
-beispielsweise das Gesundheitsamt in Frankfurt a.M. seit 2013 die
-Möglichkeit, ein PJ-Wahlfach ÖGD abzuleisten und so die vielfältigen
-Aufgaben eines Gesundheitsamtes, interdisziplinäres Arbeiten, lokale
-Verwaltungsstrukturen und den Kontakt zu Menschen in ihrer Lebenswelt
-vor Ort kennenzulernen. Kasten X stellt exemplarisch Erfahrungen aus
-diesem PJ-Tertial dar, beschreibt den Aufbau und Inhalte des
-PJ-Tertials.
-
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Kasten X: Das PJ-Tertial ÖGD im Gesundheitsamt Frankfurt a.M.</strong></p>
-<p><strong>Erfahrungen</strong></p>
-<p><strong>Die Erfahrungen sind exzellent: Bislang haben alle Studenten das Tertial als außerordentlich lehrreich und interessant bewertet und die bereits abgeschlossenen Staatsexamen waren allesamt hervorragend.</strong></p>
-<p><strong>Die erste Studentin des praktischen Jahres konnte auf ein Ausbildungsstelle (Trainee-Stelle) zur Fachärztin für Öffentliches Gesundheitswesen im Gesundheitsamt Frankfurt am Main übernommen werden und hat mittlerweile, neben der zur Weiterbildung vorgeschrieben Zeit in Einrichtungen des Öffentlichen Gesundheitsdienstes, auch ihre klinische Zeit annähernd abgeschlossen.</strong></p>
-<p><strong>Durch die Einführung der Möglichkeit, das PJ-Tertial in Frankfurt am Main ableisten zu können, konnten insgesamt drei Absolventen für den Öffentlichen Gesundheitsdienst gewonnen werden.</strong></p>
-<p><strong>Aufbau</strong></p>
-<p><strong>Die Studenten müssen alle Bereiche des Gesundheitsamtes absolvieren, in denen Kontakt zu Patinten besteht. D. h., dass zum Beispiel der Bereich „Trinkwasser“ primär nicht Inhalt des Curriculums ist (gleichwohl aber zumindest zum Kennenlernen außerhalb des vorgegebenen Curriculums mit angeboten wird). Zum Abschluss des Tertials sind die Studenten in den Humanitären Sprechstunden des Amtes eigenständig eingebunden. Gerade dieser Abschnitt wird von den Studenten als besonders lehrreich beschrieben, da sie hier ihr über die Zeit des klinischen Studiums erworbenes theoretisches Wissen komplett einsetzen können.</strong></p>
-<p><strong>Es besteht weiterhin die Kooperation mit der Asylbewerber-Sprechstunde der Missionsärztlichen Klinik in Würzburg, die von den PJ-Studenten obligatorisch besucht wird. Zusätzlich sind die Studenten für eine Woche in einer Sprechstunde für Wohnsitzlose und ebenfalls eine Woche in der ärztlichen Ambulanz des Flughafens Frankfurt Int‘l.</strong></p>
-<p><strong>Lehr-Inhalte</strong></p>
-<p><strong>DIe Lehr-Inhalte sind in Form eines Logbuches von jedem Studenten/jeder Studentin zu absolvieren.</strong></p>
-<p><strong>Dieses Logbuch kann über den beigefügten QR-Code direkt runtergelassen werden</strong></p>
-<p><strong>Studentische Poliklinik (StuPoli)</strong></p>
-<p><strong>Zusätzlich zur Möglichkeit ein PJ-Tertial „Öffentliches Gesundheitswesen“ im Gesundheitsamt Frankfurt am Main ableisten zu können, ist durch die Medizinische Fakultät der Goethe-Universität Frankfurt am Main ein Wahlfach „Studentische Poliklinik (StuPoli)“ im Gesundheitsamt Frankfurt am Main 2015 etabliert worden. Hier lernen Studenten der klinischen Semester sämtliche zur umfassenden Betreuung namentlich von Menschen ohne Versicherungsschutz oder legalen Aufenthaltsstatus wesentlichen Schritte. Die Studenten nehmen die Patienten auf, sie erheben die Anamnese, können ihre Fertigkeiten in den Untersuchungstechniken anwenden (es kann auch eine Ultraschalluntersuchung durchgeführt und ein EKG angefertigt werden) und stellen schließlich eine Verdachtsdiagnose. Diese wird durch ein Ärztin des Gesundheitsamtes ausführlich besprochen und es werden die notwendigen nächsten Schritte festgelegt. In der StuPoli, die in den Praxisräumen der Humanitären Sprechstunde des Gesundheitsamtes stattfindet, gibt es verschiedene Medikamente, die den Patienten abgegeben werden können.</strong></p>
-<p><strong>Die StuPoli hat 2017 den mit 60.000 € dotierten Preis für exzellente Lehre in der Medizin gewonnen.</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-Zur studentischen Ausbildung gehört ebenso, dass durch den ÖGD
-Promotionen und Masterarbeiten angeboten und betreut werden. Hierzu
-bedarf es nicht zwingend einer Habilitation an einer medizinischen
-Fakultät, vielmehr können in Zusammenarbeit mit einer assoziierten
-Hochschule solche Arbeiten betreut werden. Hierbei können zum Vorteil
-aller Beteiligten Fragestellungen umfassend bearbeitet werden, die
-durchaus Eingang in die tägliche Arbeit der Gesundheitsämter oder Organe
-des ÖGD finden
-können
-
-## Weiterbildung[\[2\]](#_msocom_2) : „Es gibt einen Public[\[3\]](#_msocom_3) [\[4\]](#_msocom_4) Health-Facharzt“?
-
-Diese Frage könnte von der überwiegenden Mehrheit der
-Medizinstudierenden in Deutschland gestellt werden. Realität ist, dass
-nach sechs Jahren Medizinstudium nur wenige Absolventen und
-Absolventinnen ausreichendes Wissen über das öffentliche
-Gesundheitswesen (ÖGW) in Deutschland erworben haben – vielen ist nicht
-einmal bewusst, dass es neben der stationären und ambulanten Versorgung
-noch den Öffentlichen Gesundheitsdienst als „Dritte Säule“ des
-öffentlichen Gesundheitssystems gibt; geschweige denn, dass es die
-Möglichkeit gibt, eine Weiterbildung mit dem offiziellen Titel
-“Facharzt/Fachärztin für öffentliches Gesundheitswesen” zu
-absolvieren. Dabei lautet die Gebietsdefinition für öffentliches
-Gesundheitswesen der BÄK: “Das Gebiet Öffentliches Gesundheitswesen
-umfasst die Beobachtung, Begutachtung und Wahrung der gesundheitlichen
-Belange der Bevölkerung und die Beratung der Träger öffentlicher
-Aufgaben in gesundheitlichen Fragen einschließlich Planungs-und
-Gestaltungsaufgaben zu Gesundheitsförderung, Prävention und der
-gesundheitlichen Versorgung sowie der öffentlichen Hygiene, der
-Gesundheitsaufsicht sowie der Verhütung und Bekämpfung von Krankheiten.”
-\[<https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/pdf-Ordner/Weiterbildung/MWBO-16112018.pdf>\]
-
-Mangelnde Bekanntheit und fehlende Lobby in Politik und Öffentlichkeit
-ist eine Ursache für das große Nachwuchsproblem des ÖGW. 2015 waren mehr
-als die Hälfte aller Fachärztinnen und Fachärzte im ÖGW älter als 50
-Jahre. \[Bundesärztekammer: Ärztestatistik zum 31. Dezember 2016.
-[www.bundesaerztekammer.de/ueber-uns/aerztestatistik/aerztestatistik-2016](http://www.bundesaerztekammer.de/ueber-uns/aerztestatistik/aerztestatistik-2016)\].
-
-Neben mangelnden Kenntnissen über das ÖGW und diesen Facharztausbildung
-sind weitere Gründe dafür, dass sich aktuell nur wenige
-Medizinstudierende für die Facharztweiterbildung entscheiden sind vor
-allem: intransparente Karrierewege, Imageproblem des ÖGD (Vorurteile
-eines “grauen Amtsalltages”), geringere tarifliche Entlohnung, geringere
-gesellschaftliche und interprofessionelle Anerkennung und mangelndes
-Wissen über die Tätigkeit und den Einflussbereich (“Akten bearbeiten
-statt Leben retten”) von ÄrztInnen im ÖGW, mangelnde internationale
-Anerkennung des Facharzttitels, unzureichende Möglichkeiten eines
-internationalen Austauschs, bspw. in Form einer Anerkennung eines
-Masters in PH/PhD unzureichende Möglichkeiten Teile des ,
-intransparente/mangelnde Karrierwege außerhalb des ÖGDs,
-
-Demgegenüber stehen eine Vielzahl von Vorteilen und Vorzügen des
-Facharztes für ÖGW:
-
-● Möglichkeit zur gesundheitspolitischen Einflussnahme auf kommunaler
-und regionaler Ebene
-
-● individuelle Freiheiten und Möglichkeit zur kreativen Gestaltung des
-eigenen Arbeitsbereichs
-
-● gute Vereinbarkeit von Familie und Berufsleben
-
-● abwechslungsreicher Arbeitsalltag
-
-● gesundheitspolitische Mitbestimmung
-
-● inter- und multidisziplinäres Arbeiten
-
-● Möglichkeit/Notwendigkeit zur kontinuierliche Fort- und Weiterbildung
-
-● Arbeit mit PatientInnen im und Kennlernen ihrer direkten Lebenswelt
-
-● sicherer Arbeitsplatz durch Beamtenverhältnis???
-
-### Bisheriger Aufbau Facharztweiterbildung ÖGW
-
-Bisher setzt sich die Facharztweiterbildung aus folgenden Abschnitten
-zusammen
-\[https://www.bundesaerztekammer.de/fileadmin/user\_upload/downloads/pdf-Ordner/Weiterbildung/MWBO-16112018.pdf\]:
-
-**60 Monate** Öffentliches Gesundheitswesen unter Befugnis an
-Weiterbildungsstätten, davon
-
-● müssen 24 Monate in einer Einrichtung des öffentlichen
-Gesundheitswesens abgeleistet werden, davon müssen
-
-○ 12 Monate in einem Gesundheitsamt abgeleistet werden
-
-● müssen 24 Monate in anderen Gebieten der unmittelbaren
-Patientenversorgung abgeleistet werden
-
-● müssen 6 Monate in Psychiatrie und Psychotherapie abgeleistet werden,
-davon
-
-○ können zum Kompetenzerwerb bis zu 3 Monate Weiterbildung im
-sozialpsychiatrischen Dienst des Gesundheitsamtes erfolgen
-
-● müssen 6 Monate (720 Stunden) Kurs-Weiterbildung für Öffentliches
-Gesundheitswesen abgeleistet werden, davon
-
-○ können zum Kompetenzerwerb bis zu 3 Monate (360 Stunden) Weiterbildung
-im Rahmen eines Postgraduierten-Kurses in Public Health erfolgen
-
-Der größte Teil der Ausbildung 3/5 Jahren findet in der unmittelbaren
-Patientenversorgung statt, so dass der/die ausgebildete Kollege/in auf
-solide Kenntnisse aus der Praxis aufbauen kann. Dies ist in zweierlei
-Beziehung wichtig, zum einen ist ein fundiertes fachliches Wissen später
-in vielen Situationen von großer Hilfe, zum anderen ist die Kenntnis der
-ärztlichen Lebens-, Arbeits- und Gefühlswelt hilfreich, um die Kollegen
-in kritischen Situationen angemessen, erfolgreich ansprechen zu können.
-
-Die Weiterbildungsinhalte zur Erlangung der Facharzt-Kompetenz umfassen
-u.a.:
-
-● Gesundheitsberichterstattung
-
-● Prävention und Gesundheitsförderung
-
-● Infektionsschutz
-
-● Umweltbedingte Gesundheitsbelastungen
-
-● Begutachtung im amtsärztlichen Dienst
-
-● Amtsärztliche Aufgaben
-
-● Kinder- und jugendärztliche Aufgaben
-
-● Sozialpsychiatrische Aufgaben
-
-● Pandemieplanung und Katastrophenschutz
-
-● Hygiene und Gesundheitsschutz,
-Krankenhaushygiene
-
-\[<https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/pdf-Ordner/Weiterbildung/MWBO-16112018.pdf>\]
-
-### Akademie für Öffentliches Gesundheitswesen, Düsseldorf
-
-Die Akademie für Öffentliches Gesundheitswesen, Düsseldorf ist eine
-Gemeinschaftseinrichtung mehrerer Bundesländer. Sie ist eine
-öffentlich-rechtliche Bildungsinstitution die zum Ziel hat, alle
-Beschäftigten des öffentlichen Gesundheitsdienstes aus-, fort- und
-weiterzubilden.
-
-### Traineeprogramme ÖGW
-
-### Beispiel Fulda
-
-XXX
-
-<https://www.akademie-oegw.de/fileadmin/customers-data/Blickpunkt/Blickpunkt_2015/Blickpunkt_2_15_Druck.pdf>
-
-### [\[5\]](#_msocom_5) Beispiel Frankfurt
-
-Das Gesundheitsamt Frankfurt am Main hat eine Stelle für die ärztliche
-Weiterbildung zur Fachärztin/Facharzt für Öffentliches Gesundheitswesen
-eingerichtet. Die gesamte Ausbildungszeit ist unter der Supervision des
-Gesundheitsamtes, die Stelleninhaber sind während der gesamten
-Ausbildungszeit ärztliche Mitarbeiter des Amtes und werden entsprechend
-durch das Amt bezahlt.
-
-### Beispiel Akademie für Öffentliches Gesundheitswesen
-
-Ab 2020 wird an der Akademie für Öffentliches Gesundheitswesen in
-Düsseldorf eine WEiterbildungsstelle zum Facharzt/ärztin für
-Öffentliches Gesundheitswesen eingerichtet. Diese Weiterbildungstelle
-wird von den Trägerländern der Akademie finanziert und wird als
-Traineeprogramm für fünf Jahre ausgebaut.
-
-### Reformansätze der Facharztweiterbildung
-
-Eine Reform der Facharztweiterbildung für Öffentliches Gesundheitswesen
-ist notwendig, um diesen Weg für Studierende und AbsolventInnen
-attraktiver zu gestalten. Eine solche Reform sowie konkrete Schritte für
-ihre Inhalte werden von Nachwuchsfachkräften explizit gefordert
-\[https://www.akademie-oegw.de/aktuelles/blickpunkt/blickpunkt-artikel/2018/06/01/nachwuchs-im-oegd.html;
-\].
-
-Tabelle X, die vom Nachwuchsnetzwerk Öffentliche Gesundheit (NÖG)
-gestaltet wurde, beinhaltet neben anderen Maßnahmen zur Stärkung der
-öffentlichen Gesundheit in Deutschland Vorschläge für konkrete Inhalte
-einer solchen Reform \[Akçay M et al. Öffentliche Gesundheit in
-Deutschland:. Gesundheitswesen 2018\].
-
-**Tabelle X: Maßnahmen zur Stärkung der öffentlichen Gesundheit in
-Deutschland**
-
-Aus- und Weiterbildung
-
-Stärkung interdisziplinärer *Schools of Public Health* und
-entsprechender Studiengänge, einschließlich solcher in Global Public
-He[\[6\]](#_msocom_6) [\[7\]](#_msocom_7) alth
-
-Flächendeckende Einrichtung von Lehrstühlen für Öffentliches
-Gesundheitswesen an medizinischen Fakultäten und stärkere Verankerung
-öffentlicher Gesundheit im Medizinstudium
-
-Schaffung strukturierter Karrierewege und berufsqualifizierender Aus-
-und Weiterbildungsmöglichkeiten für AbsolventInnen interdisziplinärer
-Public-Health-Studiengänge
-
-Reform der Facharztweiterbildung für Öffentliches Gesundheitswesen mit
-Aufwertung der nicht-klinischen Abschnitte und der
-Public-Health-spezifischen Weiterbildungsinhalte
-
-Schaffung integrierter Facharzt-PhD-Programme für Öffentliches
-Gesundheitswesen
-
-Perspektivisch Etablierung einer einheitlichen Weiterbildung für
-Öffentliches Gesundheitswesen für medizinische und nicht-medizinische
-Fachkräfte in Anlehnung an die Weiterbildung zum *Public Health
-Consultant* in Großbritannien
-
-Öffentliche Gesundheit in Politik und Gesellschaft
-
-Schaffung von Strukturen und Prozessen für die Stärkung der Evidenzbasis
-öffentlicher Gesundheit, inklusive entsprechender institutioneller
-Kapazitäten und der Entwicklung und Anwendung evidenzbasierter
-Public-Health-Leitlinien
-
-Aktiveres Einbringen der Fachgemeinschaft in politische und
-gesellschaftliche Debatten durch fachlich fundierte und politisch
-effektive Öffentlichkeits-, Lobby- und Kampagnenarbeit
-
-Aufbau einer geschlossenen, handlungsfähigen und sichtbaren
-Fachvertretung aller mit öffentlicher Gesundheit befassten Fachkräfte
-aus Praxis, Politik und Wissenschaft
-
-Viele Studierende und AbsolventInnen der Medizin sind sehr an
-internationalem Austausch, und an den grenzüberschreitenden Aspekten
-Öffentlicher Gesundheit interessiert. Deshalb sollten mehr
-Möglichkeiten geschaffen werden, während der Weiterbildungszeit und
-auch darüber hinaus Praxis- und Forschungsaufenthalte bei
-internationalen Organisationen wie der Weltgesundheitsorganisation (WHO)
-oder dem European Centre for Disease Control and Prevention (ECDC) zu
-absolvieren, ebenso wie bei Gesundheitsbehörden anderer Länder. Um eine
-internationale Anerkennung des Facharzttitels für ÖGW in Deutschland
-sowie die internationale Vergleichbarkeit zu erhöhen, sollten sich die
-Weiterbildungsinhalte in Deutschland mehr nach internationalen Standards
-und Vorbildern, wie etwa dem des PH Consultants in Großbritannien
-ausrichten.
-
-Auch Masterstudiengänge und PhD-Programme aus den Bereichen Public
-Health oder verwandten Fächern wie Epidemiologie sollten im Rahmen der
-Facharztweiterbildung ÖGW gefördert und anerkannt werden.
-
-Auf nationaler Ebene sollten insbesondere Möglichkeiten geschaffen
-werden, die vorgeschriebenen 24 Monate in einer Einrichtung des
-öffentlichen Gesundheitswesens nicht nur an einem Gesundheitsamt,
-sondern auch an anderen Einrichtungen des öffentlichen Gesundheitswesens
-abzuleisten (s. Auflistung und Beschreibung wichtiger nationaler
-Institutionen in Abschnitt XX[\[8\]](#_msocom_8) ), wie etwa dem
-Robert-Koch-Institut oder der BzgA aber auch an Public
-Health-Forschungseinrichtungen.
-
-## Fort- und Weiterbildung für Fachärzte und Fachärztinnen
-
-### Weiterbildung, Promotionsprogramm und Postdoc-Forschungsprogramm
-
-Mitarbeiterinnen und Mitarbeitern aus dem ÖGD sollte die Möglichkeit
-gegeben werden, sich akademisch weiterzuentwickeln und zusätzliche
-Kompetenzen für ihre praktische Arbeit zu erwerben. Gleichzeitig muss
-für Quereinsteiger in den ÖGD aus ambulanten und stationären
-therapeutischen Bereichen eine „mid career“-Verbindung von Praxis,
-Forschung und Lehre für notwendige fachlich anspruchsvolle ÖGD-Karrieren
-ermöglicht werden.
-
-Dazu wird die Einrichtung eines bundesweiten, qualitätsgesicherten und
-ausreichend finanzierten Fortbildungsprogramms für Ärztinnen und Ärzte
-im ÖGD als Promotionsprogramm sowie als Postdoc-Forschungsprogramm mit
-starkem Engagement für europäische oder internationale Partnerschaften
-für notwendig erachtet. Die Ausrichtung der Programmförderung sollte
-insbesondere bei der Fort- und Weiterbildung die zentrale Rolle der
-Fachärztinnen und Fachärzte für das Öffentliche Gesundheitswesen
-berücksichtigten.
-
-Ein gestärktes Bildungsangebot mit enger Vernetzung zu den
-Bezugswissenschaften und den vorgenannten neuen Strukturansätzen mit
-einem erweiterten Forschungsangebot erscheint geeignet, um auch im
-Europäischen Vergleich wettbewerbsfähig zu werden. Ein
-best-practice-Modell ist z.B. die mehrjährige fachärztliche
-Weiterbildung zum Public Health Consultant in Großbritannien, die in der
-theoretischen Ausbildung mindestens einem Master in Public Health
-entspricht bzw. diesen integriert. Ein entsprechendes Modell wird
-bereits an der Pettenkofer School of Public Health in Kooperation mit
-der LMU München erfolgreich umgesetzt[\[9\]](#_msocom_9) .
-
-Neben der Fort- und Weiterbildung im ärztlichen ÖGD-Bereich sind
-Auswirkungen auf entsprechende Programme für weitere Berufsgruppen im
-ÖGD, z.B. Hygieneinspektoren und Sozialmedizinische Assistenten, zu
-prüfen und ggf. auszuweiten. Eine bereichsspezifische Akademisierung in
-Form von weiteren Bachelor- oder Masterabschlüssen ist im Rahmen des
-Gesamtkonzepts zu bewerten und zu entwickeln.
-
-Als ebenfalls notwendig wird ein bundesweites, qualitätsgesichertes und
-ausreichend finanziertes Fortbildungsprogramm für Ärztinnen und Ärzte im
-ÖGD, Juristen, Ökonomen als Promotionsprogramm sowie als
-Postdoc-Forschungsprogramm mit einem starken Engagement für europäische
-oder internationale Partnerschaften vorgeschlagen. Damit wird eine
-Verbindung von Praxis, Forschung und Lehre auch für die für
-ÖGD-Karrieren typischen Quereinsteiger aus den therapeutischen
-Bereichen von Klinik und Praxis ermöglicht. Mitarbeiterinnen und
-Mitarbeitern innerhalb des ÖGD wird damit zudem die Möglichkeit geboten,
-sich akademisch weiterzuentwickeln und mit zusätzlichen Kompetenzen in
-ihre praktische Arbeit zurück zu kehren.
-
-  
-
-### Master of Public Health
-
-Public Health Studierende werden für Aufgaben in der Forschung und im
-Planungs- und Managementbereich des nationalen und internationalen
-Gesundheitswesens qualifiziert. Sie erwerben berufsbezogene Kenntnisse
-und Fertigkeiten auf den Gebieten der Bevölkerungsgesundheit und des
-Gesundheitswesens.
-
-Die Absolventen kennen die Entscheidungsstrukturen im Gesundheitswesen,
-wissen über das System, seine Akteure und deren unterschiedliche
-Interessen ebenso Bescheid wie über Steuerungsmodelle und die
-Finanzierung. Sie sind über das Management einzelner Bereiche (z. B.
-stationäre Einrichtungen) informiert, kennen Konzepte des
-Qualitätsmanagements und können Kostenfragen in den Blick nehmen. Sie
-sind in der Lage, Aussagen über vermeidbare und nicht vermeidbare
-Morbidität und Mortalität der Bevölkerung zu analysieren, entsprechende
-wissenschaftliche Untersuchungen vorzunehmen und auszuwerten. Sie haben
-Kenntnisse über den Stellenwert von Gesundheitsförderung, Prävention,
-Kuration und Rehabilitation, verfügen über Strategien gesundheitlicher
-Aufklärung.
-
-Im Sinne des Public-Health-Ansatzes orientiert sich die Master of Public
-Health Studiengänge an bevölkerungsmedizinische Konzeption der
-Gesundheitsförderung mit dem Ziel, alle Bürgerinnen und Bürger
-gleichermaßen zum Erhalt ihrer Gesundheit zu befähigen.
-
-# 
-
-# **Forschung, Wissenschaft, Evidenz**
-
-## ÖGD-zentrierte Forschung
-
-Bisher wird der ÖGD in Deutschland in seiner Multidisziplinarität kaum
-empirisch beforscht, selten werden Arbeitsweisen in der ÖGD Praxis
-wissenschaftlich begleitet oder hinsichtlich ihrer Ergebnisse evaluiert.
-Anwendungsorientierte Forschung, die sich an den relevanten
-Fragestellungen des ÖGD orientiert, findet bisher kaum statt. Ebenso
-existieren bisher keine eigenen Lehrstühle für Öffentliche Gesundheit an
-Universitäten. Dieser Umstand wird vom ÖGD stark kritisiert.
-
-Seit vielen Jahren wird gefordert, den ÖGD durch eine
-“(Wieder-)Verwissenschaftlichung wichtiger Handlungsfelder des ÖGD”
-\[Wildner\_Standortbestimmung mit hoffnungsvollem Ausblick…..\] \[auf
-eine stärkere wissenschaftliche Basis zu stellen sowie Forschung und
-Evidenz durch und über den ÖGD zu fördern. Um grundlegende und
-angewandte Erkenntnisse zu generieren, dieses Wissen im Dienst der
-Gesundheit in der praktischen Arbeit zu nutzen und evidenz-basierte und
--informierte Empfehlungen jeweils aktuell formulieren zu können, ist für
-den ÖGD eine intensivierte Verbindung von Wissenschaft und Praxis
-notwendig \[Akçay M et al. Öffentliche Gesundheit in Deutschland:.
-Gesundheitswesen; 2012\_Kuhn, WEITERE QUELLEN\].
-
-Das setzt einen transparenten und nachhaltigen Dialog zwischen
-Akademien, Praxis, Politik und Zivilgesellschaft voraus und erfordert
-zusätzliche institutionelle Kapazitäten, welche entweder an bestehenden
-Einrichtungen des ÖGW (bspw. dem RKI), unabhängigen Instituten wie dem
-IQWIG oder an eigenständigen Instituten angesiedelt sein können \[Akçay
-M et al. Öffentliche Gesundheit in Deutschland:. Gesundheitswesen\].
-Zudem wird eine (Weiter-)Entwicklung, Anerkennung und Anwendung von
-Methoden und Kriterien zur Erfüllung des Prinzips evidenzbasierter
-Patientenversorgung und Gesundheitsfürsorge benötigt. Besonders wichtig
-und unabdingbar ist dafür eine gestärkte und teilweise neue Rolle der
-Universitäten, Hochschulen und Akademien im Bereich des ÖGD.
-
-Um auf globale Herausforderungen möglichst adäquat und koordiniert
-reagieren zu können, sollten bestehende Einrichtungen, Strukturen und
-Mitarbeiterinnen und Mitarbeiter des ÖGD qualitativ und quantitativ
-international vergleichbar aufgestellt werden.[\[10\]](#_msocom_10) Auf
-die auf europäischer Ebene aktualisierten und spezifizierten
-Befähigungen zu zehn Essential Public Health Operations (EPHO\[1\]) des
-europäischen Regionalbüros der WHO wird verwiesen (s. auch Abschnitt
-X[\[11\]](#_msocom_11) ), ebenso wie auf die Internationalen
-Gesundheitsvorschriften (IGV) der WHO (s. Abschnitt X).
-
-Die Bereitschaft zur beidseitigen Vermittlung von Fragestellungen und
-Lösungsansätzen zwischen Wissenschaft und Praxis (Translation) ist
-dabei wesentlich.
-
-Nach Wilhelm von Humboldt sollen besonders wissenschaftliche
-Einrichtungen eine Einheit aus Lehre und Forschung bilden. Nach mehr als
-20-jährigem Aufbau von Public Health an akademischen Einrichtungen in
-Deutschland beruht die Public Health Lehre in Deutschland leider
-weiterhin vor allem auf anglo-amerikanischen Forschungsergebnissen.
-
-Die fragmentierte Public Health Hochschullandschaft in Deutschland hat
-es bisher nicht geschafft, Grundlagen für eine Einheit von Lehre und
-Forschung im Bereich des ÖGD zu schaffen. Die Arbeit des ÖGD ist nur zu
-einem vernachlässigbar geringen Anteil Inhalt universitärer Ausbildung
-und wird insgesamt bisher nur punktuell beforscht.
-
-Neue Erkenntnisse und Forschungsergebnisse aus dem fragmentieren Public
-Health-Forschungsbereich in Deutschland verblieben vielfach innerhalb
-der akademischen Public Health Gemeinschaft, während die Praktikerinnen
-und Praktiker des ÖGD eigene wissenschaftliche Expertise dezentral
-fortentwickelten. Die jährlichen wissenschaftlichen Kongresse des
-Bundesverbandes der Ärztinnen und Ärzte des ÖGDes e.V. (BVÖGD) belegen
-eindrucksvoll diese Kompetenzen.
-
-Dabei sollten akademische Public Health Einrichtungen nicht nur
-grundlegend zur Aus-, Fort- und Weiterbildung der Mitarbeiter im ÖGD
-beitragen sondern gleichzeitig empirische Forschung des ÖGD durchführen,
-um die Grundlagen für evidenz-basierte Entscheidungen zu etablieren und
-sicher zu stellen.
-
-Dennoch gibt es viele Beispiele, in denen eine praxisrelevante,
-wissenschaftlich hochwertige Forschung, auch über Ländergrenzen hinweg,
-durch den ÖGD initiiert werden kann. Zu erwähnen sind hier
-EU-Forschungsprojekte unter der Teilnahme Deutscher Einrichtungen des
-Öffentlichen Gesundheitswesens, das Projekt „BEPE“ (ein Projekt, das
-vom BMBF mit 1,2 Mio € zusammen mit Israelischen Stellen gefördert wurde
-{[https://www.frankfurt.de/sixcms/detail.php?id=2996&\_ffmpar\[\_id\_inhalt\]=7457175](https://www.frankfurt.de/sixcms/detail.php?id=2996&_ffmpar%5B_id_inhalt%5D=7457175)}),
-„Ivena“ und aktuell ESEG (ein Projekt, dass mit 4,2 Mio € durch den
-Gemeinsamen Bundesausschuss GBA gefördert wird
-{<https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/eseg-erkennung-und-steuerung-epidemiologischer-gefahrenlagen.151>}.
-
-## Erkenntnistransfer
-
-Neben mehr und besserer Forschung über die Praxis im ÖGD wird auch mehr
-Forschung durch den ÖGD selber benötigt. Entsprechende Erkenntnisse über
-die spezifische Fragestellungen der öffentlichen Gesundheit sollten in
-geeigneter Weise an Politik und Öffentlichkeit herangetragen werden.
-Durch hochqualitative Forschung und bedeutende Erkenntnisse im Bereich
-öffentlicher Gesundheit kann und sollte der ÖGD zur Politikberatung
-nutzen und sich so zu einem starken Anwalt für die Prävention und
-gesundheitliche Chancengleichheit einsetzen.
-
-Anhang:
-
-### Beispiel für den Anhang
-
-**typische Bestandteile einer Anordnung zur Gefahrenabwehr**
-
-•Kopfbogen der Behörde
-
-•Zustellungsart (siehe BVwZG sowie Zustellungserfordernis der
-Zwangsmittelandrohung nach BVwVG)
-
-•Adressat\*in (in der Regel d. Pflichtige oder Sorgeberechtigte, ggf.
-Pfleger\*in, Rechtsanwalt\*in)
-
-•Anrede
-
-Tenor (§37 Abs. 1 BVwVfG)
-
-•Es muss eine hinreichend bestimmte Maßnahme, die an eine bestimmte
-Person bzw. an einen bestimmten Personenkreis (im Falle einer
-Allgemeinverfügung) gerichtet ist, angeordnet werden.
-
-•Die Anordnung muss zum Zweck der Gefahrenabwehr ausgesprochen werden
-und so präzise wie möglich formuliert sein.
-
-•Die Angabe von Paragraphen ist jedoch nicht erforderlich und soll
-unterbleiben, wenn die Entscheidung dadurch schwerer verständlich wird.
-
-•D. Adressat/in muss auf den ersten Blick erkennen können, was von
-ihm/ihr verlangt wird.
-
-•Nebenbestimmung (§36 BVwVfG)
-
-•i.d.R. Frist, also ab und/oder bis wann die Maßnahme gilt
-
-•Begründung (§39 BVwVfG)
-
-•Ausführung des festgestellten Sachverhalts, soweit für die rechtliche
-Bewertung wichtig oder zwischen den Beteiligten u. U. auch strittig und
-die angewendeten Rechtsvorschriften ausgeführt sind.
-
-•Subsumtion (Unterordnung des Sachverhalts unter die abstrakte
-Rechtslage und Ableitung der Rechtsfolge)
-
-•Begründung von Ermessensentscheidungen
-
-•Feststellung der Verantwortlichkeit d. Adressat\*in
-
-•Behandlung von Einwänden
-
-...
-
------
-
-Von dem stammt dieser Absatz? Handelt es sich um ein Zitat? Bitte
-Referenzieren wenn nötig
-
-Ich würde den ganzen Absatz weglassen
-
-Den Begriff „Public Health-Facharzt“ sehe ich kritisch: Public Health
-ist eine Gesundheitswissenschaft, die absolut wichtige Zusammenhänge und
-Konsequenzen erforschen und aufzeigen kann, die aber z. B. in keiner
-Weise hoheitlich agieren können. Dies können nur Ärzte im Gesundheitsamt
-unter der Verantwortung von Fachärzten für Öffentliches Gesundheitswesen
-
-Ich hatte dies als Zitat übernommen von einem jungen Arzt, der gerade
-seinen Facharzt ÖGW absolviert und diesen Titel denke ich so bewusst,
-vielleicht auch provokativ und als Frage formuliert, um
-Menschen/Medizinstudierenden, die kein Verständnis/keine Kenntnisse über
-den Facharzt ÖGW haben zu vermitteln, dass es neben Individualmedizin
-auch noch eine Facharztausrichtung mit PH Ausrichtung hat, was ich
-prinzipiell gut finde. Unter ÖGW können sich sicherlich weniger Menschen
-auf Anhieb etwas vorstellen. Für mich stellt dies auch kein Widerspruch
-da: PH-Facharzt trägt ja immer noch Arzt im Titel. Ich kann aber auch
-damit leben, den etwas sperrigeren Titel "Gibt es einen Facharzt für
-Öffentliches Gesundheitswesen?" zu wählen.
-
-kann eingefügt werden, falls gewünscht. Es wäre sicherlich noch ein
-gutes "best practice Beispiel" um zu zeigen, wie (Karriere)wege in den
-ÖGD geebnet werden können. Wenn die Zielgruppe aber nur Leute sind, die
-ohnehin schon im ÖGD arbeiten, ist dies vermutlich weniger relevant.
-Dennoch kann dies denke ich ein Beispiel auch für Menschen in
-Leitungsfunktion im ÖGD sein, die Schwierigkeite haben Nachwuchs zu
-finden und sich daher um ein Traineeprogramm o.ä. bemühen können.
-
-Als ersten Punkt würde ich das auf keinen Fall akzeptieren können. In
-der Weiterbildungordnung können (nicht müssen\!) maximal 3 Monate der
-Facharztausbildung in Einrichtungen des PH absolviert werden.
-
-Hingegen die Schaffung von Lehrstühlen ist eine conditio sind qua non
-für die Etablierung einer optimalen Verankerung des ÖGD in das Studium
-
-Ich sehe das genauso und plädiere dafür den ersten Punkt komplett zu
-streichen.
-
-das Problem hängt an der Weiterbildungsermächtigung. Die Ärztekammern
-erkennen die Weiterbildung nur an, wenn sie es in der Institution einen
-Arzt mit Weiterbildungsermächtigung gibt. In den meisten Einrichtungen
-des ÖGW gibt es keine FÄ ÖGW. Wie z:B. im RKI, BzgA, NLGA o.a., deswegen
-können die nicht weiterbilden. Das gilt dann auch für die PH
-Einrichtungen. Der Weg geht über die Ärztekammern und die Fachärzte, die
-weiterbilden wollen. Ländern. So ist z.B. die Akademie ÖGW seit neuestem
-als Weiterbildungstätte anerkannt.
-
-Auch in Düsseldorf gibt es eine Kooperation mit der PH Studiengang der
-HHU
-
-Volle Zustimmung\! Aber wo ist hier die explizite Verbindung zu
-Wissenschaft/Forschung/Evidenz?
-
-die EPHOS werden weiter vorne schonmal erwähnt \> Hier bitte Querverweis
-eiinfügen.
+## Ärztliche Schweigepflicht
+
+Da die ärztliche Schweigepflicht zum Teil im gutachterlichen Verfahren
+berücksichtigt werden muss, werden im Folgenden die Grundlegenden
+Aspekte und Rechtsnormen aufgeführt. Ausführliche Beschreibungen zur
+ärztliche Schweigepflicht finden sich bei den Ärztekammern.
+
+Prinzipiell bedeutet die ärztliche Schweigepflicht, dass sich alle
+Personen, die ärztlich behandelt werden, darauf verlassen können, dass
+alles, was der/dem Ärztin/Arzt anvertraut wird, nicht an Dritte
+weitergegeben wird. Auch das Personal im Umfeld der Ärztin oder des
+Arztes, z.B. Arzthelferin, Krankenpflege, Sozialarbeiter,
+Verwaltungsangestellte etc., unterliegt der Schweigepflicht. Die
+ärztliche Schweigepflicht gilt auch, wenn Ärztinnen oder Ärzte die
+Betroffenen aufgrund Ihrer Tätigkeit im Gesundheitsamt aufsuchen
+mussten, sie kann allerdings auch eingeschränkt sein/werden.
+
+Verstöße gegen die Verschwiegenheitspflicht können für die/den
+Ärztin/Arzt straf-, berufs- (durch die Ärztekammer) und zivilrechtliche
+Folgen (Schadensersatzansprüche durch den Patienten) haben.
+
+### Rechtliche Regelungen
+
+Die ärztliche Schweigepflicht ist in § 9 Abs. 1 MBO-Ä, bzw. den
+entsprechenden Bestimmungen der Berufsordnungen der Landesärztekammern,
+geregelt. Danach haben Ärztinnen und Ärzte über das, was ihnen in ihrer
+Eigenschaft als ärztlich tätige Person anvertraut oder bekannt geworden
+ist, auch nach dem Tod des Patienten zu schweigen.
+
+(REF:
+https://www.bundesaerztekammer.de/recht/aktuelle-rechtliche-themen/aerztliche-schweigepflicht/)
+
+Gleichzeitig fallen ärztlich Tätige als sogenannte Berufsgeheimnisträger
+auch unter die strafbewehrte Schweigepflicht (§ 203 StGB), mit der die
+Verletzung von Privatgeheimnissen geregelt wird.
+
+### Grenzen der Schweigepflicht
+
+Allerdings sind Ausnahmen von der ärztlichen Schweigepflicht gegeben,
+wenn dies in gesetzlichen Vorschriften geregelt ist. Dann besteht zum
+Teil das Recht, bzw. eine Pflicht des Arztes zur Offenbarung.
+
+#### Offenbarungsbefugnis
+
+Dabei kann eine
+
+1.  **Offenbarungsbefugnis durch Einverständnis des Patienten**, d.h.
+    der Person, auf die sich die geheimzuhaltende Tatsache bezieht, an
+    die/den Arzt/Ärztin erteilt werden.
+
+2.  **Offenbarungsbefugnis durch mutmaßliches Einverständnis**
+    angenommen werden, z.B. Übermittlung von Information an nächste
+    Angehörige bei bewusstlosen Notfallpatienten oder
+    Informationsaustausch unter ärztlich Tätigen bei Behandlungen in
+    Gemeinschaftspraxis
+
+3.  **Offenbarungsbefugnis durch gesetzliche Erlaubnis** erteilt werden,
+    z.B. Meldeerlaubnis für Krebsregister (landesrechtl. Vorschriften)
+    oder
+
+4.  **Offenbarungsbefugnis zur Wahrung eigener Interessen** z.B.
+    gerichtliches Verfahren, in dem der Arzt seinen Honoraranspruch
+    geltend macht.
+
+#### Schutz höherwertiger Rechtsgüter
+
+Darüber hinaus gilt immer der Schutz höherwertiger Rechtsgüter, d.h.
+Offenbarung ist befugt, wenn sie zum Schutz eines höherwertigen
+Rechtsgutes erforderlich ist. Geheimnisträger sind dazu (grundsätzlich)
+berechtigt, aber nicht verpflichtet.
+
+Offenbarung ohne Zustimmung des Patienten wäre befugt, wenn ein/e
+Patient/in trotz Belehrung über den Gesundheitszustand und die von ihm
+ausgehende Gefahr und trotz Ermahnung uneinsichtig ist. Beispielsweise
+könnte dann eine Mitteilung an die zuständige Behörde erfolgen, wenn
+ein Patient trotz chronischem Alkoholabusus oder trotz epileptischer
+Anfälle als Kraftfahrer am Straßenverkehr teilnehmen will. Ein Ehe-
+oder Sexualpartner könnte über eine HIV-Infektion oder AIDS-Erkrankung
+aufgeklärt werden.
+
+#### Rechtfertigender Notstand
+
+Wenn ärztlich Tätige bewusst gegen die Interessen des Patienten handeln
+um höherwertige Interessen zu schützen und sich dabei auf
+rechtfertigenden Notstand (§34 StGB) beziehen, ist diese
+Offenbarungsbefugnis prospektiv schwer zu beurteilen. Das heisst, wenn
+ein höherwertiges Interesse den Bruch der Schweigepflicht rechtfertigt,
+kann nur aufgrund der konkreten Umstände des Einzelfalls retrospektiv
+über den rechtfertigenden Notstand entschieden werden. Das heisst: im
+konkreten Fall kann sich die/der Ärztin/Arzt auf den rechtfertigenden
+Notstand beziehen. Allerdings ergibt sich erst bei der retrospektiv
+Betrachtung der Situation eine Beurteilung dieser.
+
+Ein Spezialfall der Offenbarungsbefugnis ist die Frage, ob und in
+welchem Umfang sich der Arzt im Falle der Misshandlung von Kindern
+offenbaren darf. Hier wird in der Regel nach dem Güterabwägungsprinzip
+vorgegangen: Wenn sich bei der Untersuchung des Kindes der Verdacht
+einer Misshandlung ergibt, darf der Arzt im Interesse des Kindes seine
+Schweigepflicht durchbrechen und die Misshandlung der Polizei oder dem
+Jugendamt offenbaren. Aufgrund der Garantenpflicht gegenüber dem Kind
+ist der Arzt bei ausreichend konkreten Hinweisen, die den Verdacht einer
+Misshandlung des Kindes rechtfertigen, sogar verpflichtet die Polizei
+oder das Jugendamt zu informieren, um mögliche künftige Misshandlungen
+zu verhindern.
+
+Generell gilt, das Interesse an der Abwehr drohender Gefahren für Leib,
+Leben oder Gesundheit sind regelmäßig höherwertig anzusehen gegenüber
+dem Geheimhaltungsinteresse des Patienten.
+
+Tatsächlich besteht eine sogenannte Offenbarungspflicht (gesetzliche
+Pflicht), z.B. als Meldepflicht in Bezug auf geplante, noch nicht
+begangene, schwere Verbrechen (§§ 138, 139 StGB ), als Anzeigepflicht
+nach dem Personenstandsgesetz (Geburt) oder Anzeigepflicht nach dem
+Feuerbestattungsgesetz (Angabe der Todesursache).
+
+## 
+
+## Datenschutz
+
+Der Datenschutz wird in Deutschland in erster Linie als Ziel zur
+Sicherstellung sogenannten Rechtes auf informationelle Selbstbestimmung
+verstanden und soll grundsätzlich dazu beitragen, dass jede Person
+selbst über die Preisgabe und Verwendung der eigenen personenbezogenen
+Daten bestimmen kann. Dieses ist nicht explizit im Grundgesetz geregelt,
+wird aber aus Art 1 Abs 1 („Die Würde des Menschen ist unantastbar. Sie
+zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.“)
+und Art 2 Abs 1 („Jeder hat das Recht auf die freie Entfaltung seiner
+Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht
+gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.“)
+des Grundgesetzes abgeleitet. Dabei stehen Wert und Würde der Personen,
+die in freier Selbstbestimmung als Glied einer freien Gesellschaft
+wirken, im Mittelpunkt.
+
+Daraus ergibt sich für die praktische Arbeit, z.B. in kommunalen
+Gesundheitsämtern, besondere Verantwortung für die Verarbeitung
+personenbezogener Daten von Personen, die z.B. vom Gesundheitsamt
+untersucht oder von dessen Maßnahmen betroffen werden, oder von
+Personen, für die Maßnahmen, z.B. aufgrund eines sogenannten
+Psychiatriekrankengesetzes getroffen werden. Von diesen Personen dürfen
+personenbezogene Daten nur erhoben und gespeichert werden, soweit dies
+zur jeweiligen Aufgabenerfüllung erforderlich ist, eine Rechtsvorschrift
+dies erlaubt, bzw. wenn die beteiligte Person eingewilligt hat
+(Rechtmäßigkeitsprinzip). Für die Bearbeitung von personenbezogenen
+Daten bedarf es dabei grundsätzlich der Einwilligung in Schriftform.
+
+Personenbezogene Daten dürfen dabei nur übermittelt werden, auch
+innerhalb einer Einrichtung oder öffentlichen Stelle
+
+  - an eine andere Organisationseinheit
+
+  - soweit dies zur Erfüllung einer gesetzlichen Pflicht erforderlich
+    ist
+
+  - durch Rechtsvorschrift erlaubt ist
+
+  - die Person im Einzelfall eingewilligt hat
+
+  - zur Abwehr einer gegenwärtigen Gefahr für Leben, körperliche
+    Unversehrtheit oder persönliche Freiheit des Betroffenen oder eines
+    Dritten
+
+Der Datenschutz ist auf Grundprinzipien aufgebaut: Zu den wichtigsten
+gehören die Verarbeitung von Daten für festgelegte und eindeutige
+Zwecke (Zweckbindung), die Beschränkung der Datenverarbeitung auf das
+notwendige Maß (Erforderlichkeit, Datenminimierung und
+Speicherbegrenzung) und die Transparenz.
+
+Heute wird in Deutschland, und darüber hinaus, der „Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten und zum freien
+Verkehr solcher Daten“ durch die europäische Datenschutzgrundverordnung
+(DGSVO) geregelt. Die DGSVO gilt seit 2018 allgemein und unmittelbar in
+allen Mitgliedsstaaten der Europäischen Union und ist gegenüber alle
+Regelungen in Deutschland vorranging. Mit dieser neuen Rechtslage gehen
+aber keine gravierenden inhaltlichen Änderungen des bestehenden
+Datenschutz in Deutschland einher, die bisherige Grundsystematik und
+meisten Grundprinzipien bleiben erhalten.
+
+### Datenlöschung bzw. Aktenvernichtung
+
+Prinzipiell sind Patientendaten zu löschen, wenn ihre Speicherung
+unzulässig ist. Die Unzulässigkeit kann darauf beruhen, dass die
+Erhebung beim Betroffenen oder die Übermittlung von einem Dritten mit
+dem Datenschutzrecht nicht vereinbar war, z.B. wenn keine wirksame
+Einwilligungserklärung vorliegt.
+
+Eine Löschung muss auch erfolgen, sobald die Kenntnis der Daten für die
+Erfüllung des Zweckes der Speicherung nicht mehr erforderlich ist. Die
+fehlende Erforderlichkeit der weiteren Datenspeicherung ergibt sich
+nicht schon durch die Beendigung einer Behandlung, bzw. Untersuchung.
+
+Bei ärztlichen Unterlagen gilt, dass diese aus Dokumentationsgründen in
+jedem Fall 10 Jahre lang aufbewahrt werden müssen ([§ 10 Abs. 3
+MBO-Ä](https://www.datenschutzzentrum.de/material/recht/medizin/boarzt.htm#Par10)).
+Nach § 32 Abs. 2 Strahlenschutzverordnung und [§ 28 Abs. 4 Nr. 1
+RöntgVO](https://www.datenschutzzentrum.de/material/recht/medizin/roentvo.htm#Par28)
+sind Aufzeichnungen über die Behandlung mit radioaktiven Stoffen sowie
+über Röntgenbehandlungen 30 Jahre (bei Untersuchung nur 10 Jahre) nach
+der letzten Behandlung aufzubewahren. Wegen eventuell erst später (erst
+nach 30 Jahren, vgl. [§ 197
+BGB](https://www.datenschutzzentrum.de/material/recht/bgb.htm#197))
+verjährender zivilrechtlicher Ansprüche kann vom Arzt die Notwendigkeit
+einer Aufbewahrung medizinischer Unterlagen sogar für diesen langen
+Zeitraum geltend gemacht werden. Zweck der Aufbewahrung ist dann i.d.R.
+nur noch, die Art von Untersuchung und Behandlung nachzuweisen.
+Verzichtet der Patient wirksam (in schriftlicher Form) auf die
+Geltendmachung von vermögensrechtlichen Forderungen, so hat der Arzt
+i.d.R. keinen Grund mehr, über die 10 Jahre Dokumentationspflicht hinaus
+die medizinischen Unterlagen aufzubewahren.
+
+Die Erforderlichkeit einer über 10 oder gar 30 Jahre hinausgehenden
+Speicherung von medizinischen Daten kann sich aus Behandlungsgründen
+ergeben. Dies kann bei Krankheiten der Fall sein, die über Jahrzehnte
+hinweg fortdauern, etwa bei Erbkrankheiten, vielen psychischen Störungen
+oder Transplantationen. Die Erforderlichkeit darf aber in diesen Fällen
+nicht pauschal angenommen werden; vielmehr bedarf es bei einer über 30
+Jahre hinausgehenden Archivierung einer Begründung und Legitimation im
+Einzelfall.
+
+Forschungsgründe für sich allein können eine personenbezogene
+Aufbewahrung von medizinischen Unterlagen grundsätzlich nicht
+rechtfertigen. Hier bedarf es entweder einer ausdrücklichen Einwilligung
+des Patienten oder einer Anonymisierung bzw. Pseudonymisierung der
+Datensätze.
+
+## Aufbewahrungspflicht
+
+Sind Daten sowohl elektronisch wie auch konventionell analog
+gespeichert, so besteht eine Aufbewahrungsnotwendigkeit nur bzgl. des
+Mediums, mit dem der medizinischen Dokumentationspflicht genügt werden
+soll. Dies dürfte heute noch weitgehend die konventionelle (Papier-)
+Akte sein. Elektronische Speicherungen können und sollten früher
+gelöscht werden, zumal sich durch redundante Speicherungen die
+Missbrauchsrisiken erhöhen; dies gilt wegen der leichten Zugriffs- und
+Auswertungsmöglichkeiten insbesondere bei elektronischen
+Datenspeicherungen.
+
+Erfolgt innerhalb des medizinischen Bereiches eine Speicherung nach
+verschiedenen Zwecken, so besteht u.U. eine frühere Löschpflicht. So
+unterliegen z.B. sämtliche Abrechnungsdaten nicht der medizinischen
+Dokumentationspflicht. Diese Daten werden nicht mehr benötigt, wenn sie
+für finanzrechtliche Zwecke (Abrechnung nach SGB V,
+Dokumentationspflichten nach Handelsgesetzbuch bzw. Steuerrecht) nicht
+mehr aufbewahrt werden müssen.
+
+Löschen ist "das Unkenntlichmachen gespeicherter personenbezogener
+Daten" ([§ 3 Abs. 4 S. 2 Nr. 5
+BDSG](https://www.datenschutzzentrum.de/medizin/http:/www.gesetze-im-internet.de/bdsg_1990/__3.html),
+[§ 2 abs. 2 Nr. 5 LDSG
+SH](https://www.datenschutzzentrum.de/medizin/http:/www.gesetze-rechtsprechung.sh.juris.de/jportal/?quelle=jlink&query=DSG+SH&psml=bsshoprod.psml&max=true&aiz=true#jlr-DSGSHpP2)).
+Die Löschung kann dadurch erfolgen, dass der Datenträger mitsamt den
+darauf enthaltenen Daten zerstört wird, z.B. durch Schreddern von
+konventionellen Akten oder Festplatten. Eine andere Möglichkeit besteht
+darin, die Lesbarkeit auszuschließen, ohne den Datenträger zu
+vernichten, z.B. durch Schwärzen eines Schriftstücks oder durch
+Überschreiben einer Diskette.
+
+### Ärztliche Dokumentation
+
+Inzwischen erfüllt die ärztliche Dokumentation eine Vielzahl von
+Funktionen, wie bespielsweise Gedächtnisstütze des Arztes,
+Therapiesicherung, Rechenschaftslegung gegenüber dem Kostenträger,
+Beweissicherung oder Qualitätssicherung.
+
+Die Berufsordnung der Ärztekammern und gesetztliche Vorschriften regeln
+den Umgang mit ärztliche Aufzeichnungen. In der Regel sind ärztliche
+Aufzeichnungen für die Dauer von zehn Jahren nach Abschluss der
+Behandlung aufzubewahren, soweit nicht nach gesetzlichen Vorschriften
+eine längere Aufbewahrungspflicht besteht. Sie bedürfen auf
+elektronischen Datenträgern oder anderen Speichermedien besonderer
+Sicherungs- und Schutzmaßnahmen, um Veränderung, Vernichtung oder
+unrechtmäßige Verwendung zu verhindern.
+
+In Behörden werden Aufzeichnungen in der Regel in Akten aufbewahrt. Der
+Umgang mit Akten in Behörden wird nur zum Teil durch das
+Verwaltungsverfahrensgesetz geregelt und meistens in
+Verwaltungsvorschriften, die die Verwaltungsabläufe in Behörden regeln,
+z.B. in der [Gemeinsamen Geschäftsordnung für die Berliner Verwaltung –
+AllgemeinerTeil (GGO
+I)](http://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/geschaeftsordnung-der-berliner-verwaltung/ggo-i/ggo_eins.pdf).
+Das Grundprinzip ist dabei, dass Aktenführung dazu dient, alles
+Verwaltungshandeln nachvollziehbar zu dokumentieren. Das heisst, dass
+die Bearbeitung eines Vorganges, wie beispielsweise das Erstellen eines
+Gutachtens, durch die Verwaltung in der Akte so dokumentiert wird, dass
+ein mit der Sache nicht vertrauter Leser der Akte nachvollziehen kann,
+wie der Ablauf des Vorgangs war und warum es zu
+Verwaltungsentscheidungen gekommen ist.
+
+## Akteneinsichtsrecht
+
+Abgeleitet von dem sogenannten „Recht auf informelle Selbstbestimmung“
+haben Patienten prinzipiell das Recht in ihre Patientenakte einzusehen,
+und zwar in die Originalakte.
+
+Einsichtnahme in Patientenakten muss an dem Ort erfolgen, an dem sich
+die einzusehenden Unterlagen oder Dokumente befinden.
+
+Abschriften oder Kopien können von der Patientenakte in analoger oder
+digital angefertigt werden, allerdings müssen die Einsicht nehmenden
+Personen die Kosten dafür übernehmen.
+
+Behandelnde Ärztinnen und Ärzte können jedoch die Einsichtnahme ganz
+oder teilweise verweigern, wenn erhebliche therapeutische Gründe
+dagegensprechen. Unter Umständen sind sie sogar verpflichtet, die
+Einsichtnahme in die Patientenakte zu verweigern. Dahinter steht das
+Argument, dass Patienten vor schädlichen Informationen geschützt werden,
+die mit der Gefahr einer erheblichen gesundheitlichen
+(Selbst-)Schädigung des Patienten verbunden wären.
+
+Ein Einsichtsrecht ist auch zu verwehren, wenn und soweit die
+Aufzeichnungen personenbezogene Informationen dritter Personen
+enthalten, die ihrerseits schutzwürdig sind. Zu denken ist
+beispielsweise an minderjährige Patienten, die unter Einbeziehung ihrer
+Eltern behandelt werden. Dokumentationen über die Eltern, insbesondere
+über deren Persönlichkeit, müssen geschützt werden.
+
+Wenn in der Patientenakte persönliche Eindrücke oder subjektive
+Wahrnehmungen der behandelnden Person enthalten sind, müssen diese
+prinzipiell einzusehen sein. Wenn jedoch im Einzelfall ein begründetes
+Interesse der behandelnden Person besteht diese nicht zu offenbaren,
+können diese in den einzusehenden Akten unkenntlich gemacht werden.
+
+## Anwesenheit „Dritter“ bei der Begutachtung
+
+Es ist gesetzlich nicht geregelt, ob und wer in einem
+Begutachtungsverfahren die zu begutachtenden Person begleiten darf, bzw.
+ob ein Anspruch auf die Anwesenheit “Dritter” besteht. Der Gesetzgeber
+hat sich diese Problems bislang nicht umfänglich angenommen, mit
+Ausnahme für den Bereich des Strafprozesses (§ 81d Abs. 1 Satz 3 StPO).
+Daher werden im folgenden verschiedene Rechtsprechungen dazu im Kontext
+der Erörterungen vorgestellt.
+
+Eine weitere wichtige Frage in diesem Zusammenhang ist, ob durch die
+Anwesenheit “Dritter” das Ergebnis der Begutachtung beeinflusst wird.
+
+### Zulassen von Vertrauenspersonen zur Begutachtung
+
+Sowohl im sozialrechtlichen, als auch im beamtenrechtlichen Verfahren
+(Amtsärztliche Begutachtung zur Frage der Dienstfähigkeit) ist aufgrund
+der weitreichenden Konsequenzen für die zu begutachtende Person von
+einem Anspruch auf eine Begleitung bei der Begutachtung durch eine
+Vertrauensperson auszugehen.
+
+Eine Ablehnung erfordert eine sachliche und nachvollziehbare Begründung
+durch die begutachtende Person.
+
+Dabei ist im Vorfeld grundsätzlich sicherzustellen, dass eine Begleitung
+durch die zu begutachtende Person selbst auch tatsächlich gewünscht ist.
+
+Die Anwesenheit einer Vertrauensperson bei der körperlichen Untersuchung
+ist hingegen auch unter ethischen Aspekten im Einzelfall kritisch zu
+prüfen.
+
+Beispielsweise sieht die Berufsordnung der Ärztekammer
+Schleswig-Holstein hierzu in § 7 Abs. 5 zunächst grundsätzlich vor, dass
+Angehörige von Patientinnen und Patienten und andere Personen bei der
+Untersuchung und Behandlung anwesend sein dürfen, wenn der
+verantwortliche Arzt und die Patientin oder der Patient zustimmen.
+
+Nach dem Beschluss des Oberlandesgerichts Hamm, vom 3. Februar 2015
+-II-14 UF 135/14, 14 UF 135/14 ist einem medizinisch oder psychologisch
+zu begutachtenden Beteiligten bei einem Untersuchungstermin bzw.
+Explorationsgespräch des Sachverständigen die Anwesenheit einer
+Begleitperson ohne Äußerungs-, bzw. Beteillungsrechte zu gestatten.
+
+Nach der Kommentierung zur Musterberufsordnung soll sich ein Anspruch
+auf Anwesenheit einer Vertrauensperson bei stark die Persönlichkeit oder
+den Intimbereich betreffenden Begutachtungen ergeben, wenn das
+Untersuchungsergebnis dadurch nicht - wie ggf. bei psychiatrischen
+Explorationen - verfälscht wird oder im Zivilprozess die
+Waffengleichheit der Prozessparteien gewahrt werden muss (so Scholz in:
+Spickhoff, Medizinrecht, 2. Auflage, § 7 MBO, Rn. 19).
+
+Im Falle psychiatrischer Gutachten können Einschränkungen bestehen, wenn
+die/der begutachtende psychiatrische Fachärztin/arzt tatsächlich keinen
+ungefilterten Eindruck von einer/m Patienten/in erlangen kann, solange
+eine Begleitperson ständig anwesend ist. Dies kann und sollte zur
+Ablehnung einer Begleitperson, zeitweise oder während der gesamten
+Begutachtungszeit, führen.
+
+Das Oberlandesgericht Hamm hat in seinem Urteil vom 16. Februar 2016
+-1-9 U 117/15, 9 U 117/15-, juris zur Frage des Vorliegens einer
+Pyromanie des Beschuldigten entschieden, dass „man der Begleitperson
+eine Beteiligung an dem Untersuchungsgespräch durch Fragen, Vorhalte
+oder sonstige Äußerung nicht gestatten könne. Hierdurch wäre bei einer
+medizinischen oder psychologischen Untersuchung, anders als z.B. bei
+einem baurechtlichen Ortstermin, eine erhebliche Störung der
+Untersuchung und auch Beeinflussung ihres Ergebnisses zu befürchten. Die
+Rechte des zu Begutachtenden hingegen sind in diesem Punkt hinreichend
+gewahrt durch die Möglichkeit nachträglicher schriftlicher
+Stellungnahmen und/oder einer mündlichen Befragung des Sachverständigen
+im Gerichtstermin (a.a.O. Rn 24).
+
+Aus den genannten richterlichen Entscheidungen ist ersichtlich, dass in
+jedem Einzelfall zu entscheiden ist, ob eine Teilnahme einer
+Begleitperson an der Begutachtung versagt werden kann, bzw. sollte.
+Insbesondere sind dabei die Persönlichkeit der zu begutachtenden Person,
+der Gegenstand der Begutachtung sowie die Funktion der Begleitperson mit
+zu berücksichtigen.
+
+Demnach kann es durchaus zulässig sein, die Anwesenheit einer
+Begleitperson abzulehnen.
+
+Bei einer Untersuchung zur Feststellung der Dienstfähigkeit eines
+Beamten wurde vom OVG Rheinland-Pfalz entschieden, dass ein
+Anwesenheitsrecht Dritter nicht besteht. Die/der Gutachter/in habe zu
+Recht die Anwesenheit einer nahestehenden Person abgelehnt, da eine
+psychiatrische Exploration nur im Rahmen eines kommunikativen
+Zweiergesprächs sinnvoll durchgeführt werden könne (vgl. OVG R-P
+11.06.13 - Az. 2 A 11071 / 12). Die Auffassung, dass im Rahmen einer
+fachpsychiatrischen Untersuchung zur Klärung der Frage der
+gesundheitlichen Eignung eines Beamtenanwärters ein Anwesenheitsrecht
+dritter Personen nicht bestehe, ist vom OVG Lüneburg bestätigt worden
+(vgl. OVG Lüneburg 02.08.16 - Az. 5 ME 103/16).
+
+Entgegengesetzt hat das LSG Rheinland- Pfalz entschieden, einen Anspruch
+der zu begutachtenden Person auf Anwesenheit eines Dritten grundsätzlich
+zu bejahen, soweit seine Anwesenheit nicht störend für den
+Untersuchungsablauf ist. Diese Entscheidung ging sogar soweit, die
+Qualifikation des Gutachters in Frage zu stellen, wenn er nicht in der
+Lage wäre bei Anwesenheit eines Dritten die Untersuchung durchzuführen
+(vgl. LSG Rheinland-Pfalz 23.02.06 - L 4B 33/06).
+
+*Nach § 2 Abs. 4 Berufsordnung darf eine Ärztin hinsichtlich ihrer
+ärztlichen Entscheidung: keine Anweisungen von Dritten entgegennehmen.
+Im Übrigen ist sie nach § 7 Abs. 2 Berufsordnung abgesehen von Notfällen
+und besonderen rechtlichen Verpflichtungen -frei, eine Behandlung-
+abzulehnen.*
+
+*Ob jedoch das Recht zur Ablehnung der Behandlung aus einer besonderen
+rechtlichen Verpflichtungen, die der Begutachtung zugrunde liegt,
+eingeschränkt sein kann, vermögen wir mangels Kenntnis der für die
+jeweilige Begutachtung einschlägigen Rechtsgrundlagen nicht abschließend
+zu beurteilen.*
+
+### Zulassen von Vertrauenspersonen zur Begutachtung von Minderjährigen
+
+Eine Einschränkung für die Anwesenheit Dritter ist für den Bereich der
+Untersuchung von Minderjährigen anzunehmen.
+
+Für den Bereich der Untersuchungen von Kindern in der Kita und von
+Schülern bestimmt beispielsweise § 25 Abs. 2
+Gesundheitsdatenschutzgesetz NRW (GDSG NW), dass die Anwesenheit Dritter
+nur zulässig ist, soweit es zur ordnungsgemäßen Durchführung der
+Untersuchung erforderlich ist. Danach darf in diesem Bereich die
+Anwesenheit nicht nur nicht störend sein, sondern durch das Gebot der
+Erforderlichkeit dürfte ein förderndes Element durch die Anwesenheit
+Dritter gefordert sein. Dies dürfte in der besonderen Schutzwürdigkeit
+dieser zu untersuchenden Personengruppe begründet sein.
+
+Dieser Grundgedanke dürfte über den Bereich des Landes NRW hinaus auf
+andere Bundesländer übertragbar
+sein.
+
+#### Zulassen von dolmetschenden Fachkräften (zur Herstellung der Verständigung zwischen begutachtenden und zu begutachtenden Personen)
+
+Zur Herstellung der Verständigung zwischen zu begutachtenden und
+begutachtenden Personen werden besonderen sprachliche und kulturelle
+Kompetenzen benötigt. Dolmetschende Fachkräfte, zum Teil als
+Sprachmittler bezeichnet, übersetzen in der Regel von einer
+Ausgangssprache in eine andere Sprache. Die Übersetzung kann mündlich,
+schriftlich oder in Gebärdensprache erfolgen. Im Gegensatz zur reinen
+Übersetzung berücksichtigen dolmetschende Fachkräfte zum Teil auch
+wesentlich Aspekte der Ausgangsprache („cultural broker“). Darüber
+hinaus können Sie auch Faktoren wie Gestik, Mimik, Intonation und die
+allgemeine Körpersprache übersetzen.
+
+Im Begutachtungsverfahren, insbesondere in psychiatrischen
+Begutachtungen, ist es häufig wichtig, dass die dolmetschende Fachkraft
+wortwörtlich übersetzt.
+
+Die Berufsbezeichnung Dolmetscher/in ist in Deutschland nicht geschützt.
+Der Beruf kann ausgeübt werden ohne eine vorangegangene Prüfung abgelegt
+zu haben. Missbräuchliche Verwendungen werden durch bestimmte Abschlüsse
+oder Zulassungen vorgebeugt, z.B. „beeidigter Dolmetscher“, „gerichtlich
+zertifizierter Dolmetscher“.
+
+Eine dolmetschende Fachkraft zur Untersuchung hinzuzuziehen ist jeweils
+eine Frage der Erforderlichkeit für die Verständigung zwischen ärztlich
+begutachtenden und zu begutachtenden Personen, die nur im Einzelfall
+beantwortet werden kann.
+
+Insbesondere bei der Beurteilung psychischer Erkrankungen kann dieses
+Erfordernis bestehen.
+
+Ein die zu begutachtende Person begleitender sprachkundiger Bekannter
+kann zur Feststellung körperlicher Erkrankungen und Beschwerden im
+Einzelfall ausreichend sein.
+
+Für die Frage des Vorliegens und die Ausprägung psychischer Erkrankungen
+dürfte die Untersuchung ohne qualifizierte/n Dolmetscher/in keine
+tragfähige Grundlage für eine Entscheidung sein. (vgl. VG Karlsruhe
+29.05.15 - Az. 7 K 2513/15).
+
+Das Fehlen einer Dolmetscherin oer eines Dolmetschers hat im Einzelfall
+dazu geführt, dass das Gutachten, das die Grundlage für die Abschiebung
+war, als nicht tragfähig für die Entscheidung anzusehen ist (vgl. VG
+Karlsruhe 29.05.15, Az. 7 K 2513/15).
 
 <div class="section fnlist" data-role="doc-footnotes">
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LB-ÖGD_07 Verwaltungshandeln
+title: 06. Besonderheit bei der Begutachtung Psychischer Störungen
 nav_order: 6
 ---
  
@@ -16,228 +16,272 @@ nav_order: 6
    <p></p>
  
  
-# Verwaltungshandeln
+Die Beurteilung psychischer Störungen erfolgt im günstigen Fall durch
+eine/n Fachärztin/-arzt. In der Realität werden aber psychiatrische
+Begutachtungen, insbesondere im Rahmen des öffentlichen
+Gesundheitsdienstes, oft durch Fachärztinnen oder Fachärzte anderer
+Fachrichtungen vorgenommen.
 
-Öffentlich-rechtliches Verwaltungshandeln ist im formellen Sinn die von
-Verwaltungsbehörden ausgeübte Tätigkeit und im materiellen Sinne die
-Wahrnehmung von Verwaltungsaufgaben.
+Grundsätzlich befähigt das Studium der Medizin jede/n Ärztin/Arzt zu
+einer psychiatrischen Untersuchung. So ist beispielsweise jede/r
+approbierte Ärztin/Arzt befugt, ein Gutachten im Rahmen der
+zivilrechtlichen Unterbringung von selbst- oder fremdgefährdenden
+Patienten zu erstatten. Gleichwohl tragen die klinisch-psychiatrische
+Erfahrung sowie nicht zuletzt psychotherapeutische Kenntnisse fraglos
+zur Kompetenz der begutachtenden Person bei.
 
-Verwaltunghandlen kann faktisch, z.B. im Form von Auskünfte oder
-Warnungen, oder regelnd sein. Dabei wirkt regelndes Handeln entweder
-intern, in Form von Verwaltungsvorschriften oder Weisungen, oder hat
-eine Außenwirkung im Rahmen allgemeiner Rechtsnormen oder als
-Einzelfall.
+### Rahmenbedingungen
 
-Daraus resultieren in der Verwaltung nach Zweck und Recht
-unterschiedliche Verwaltungstätigkeiten:
+Wie bei allen zu behandelnden Personen ist auch bei psychisch Kranken
+eine besondere Vertrauensbasis notwendig, um im Rahmen eines tragfähigen
+Arbeitsbündnisses die für die Begutachtung relevanten Informationen zu
+erhalten.
 
-● Eingriffsverwaltung
+Bei psychisch Erkrankten bedarf es sicherlich eines besonderen
+Feingefühls und Geschicks, um die unverändert erheblichen Vorbehalte
+gegenüber der Äußerung psychischer Probleme zu überwinden. Psychische
+Auffälligkeiten sind auch im 21. Jahrhundert häufig schambesetzt und
+werden in weiten Teilen der Bevölkerung immer noch tabuisiert.
 
-● Leistungsverwaltung (Daseinsvorsorge)
+Darüber hinaus gehen viele psychiatrische Erkrankungen mit spezifischen
+Ängsten einher. So ist das Erleben psychotischer Patienten häufig
+paranoid gefärbt, sodass sie der/dem Gutachter/in mit entsprechendem
+Misstrauen begegnen. Zu behandelnde Personen mit Traumafolgestörungen
+haben erhebliche Ängste vor traumaspezifischen Triggerreizen im Rahmen
+der Untersuchung. Es empfiehlt sich daher, sich bereits zuvor über Art
+und Ausmaß des möglichen zugrundeliegenden Störungsbildes zu
+informieren.
 
-● Gewährleistungs- und Regulierungsverwaltung
+Zu Beginn der Untersuchung kann eine ruhige und sachliche Erklärung des
+Hintergrunds der Begutachtung, im gegebenen Fall auch eine kurze
+psychotherapeutische Intervention, die Ängste der zu behandelnden Person
+vermindern.
 
-Dabei liegt eine Eingriffsverwaltungliegt, wenn die Verwaltung in die
-Rechtssphäre des Bürgers eingreift und dessen Freiheit und Eigentum
-beschränkt, z.B. im Rahmen der Gefahrenabwehr oder zum Schutz der
-öffentlichen Sicherheit.
+Die psychiatrische Untersuchung selbst besteht wie in der Organmedizin
+aus Anamnese und Befunderhebung, wobei im Unterschied zur körperlichen
+Untersuchung die Erfassung psychopathologischer Symptome über weite
+Strecken parallel zu der Anamnese-Erhebung erfolgt.
 
-Als Leistungsverwaltung bezeichnet man die Verwaltungstätigkeit, bei der
-die Verwaltung dem Bürger Leistungen oder sonstige Vergünstigungen
-gewährt.
+### Anamnese
 
-Dagegen ist Gewährleistungsverwaltung wenn eine Verwaltung traditionell
-von ihr
+Es erweist sich als hilfreich, die zu begutachtende Person in einem
+ersten Teil der Anamnese zunächst frei und möglichst wenig strukturiert
+berichten zu lassen. Dies erlaubt einen Einblick in die individuelle
+Gewichtung der vorgebrachten Beschwerden und Themen. Zudem gewinnt die
+begutachtende Person einen Eindruck von der Introspektions- und
+Reflexionsfähigkeit der zu begutachtenden Person und kann deren
+Gesamtpersönlichkeit mit etwaigen Besonderheiten von Verhalten und
+Beziehungsgestaltung auf sich wirken lassen.
 
-wahrgenommene Aufgaben nicht selbst erfüllt, sondern sie durch andere
-Institution, z.B. private Träger erfüllen lässt (Privatisierung). Unter
-Regulierungsverwaltung versteht man die Sicherstellung bestimmter
-Leistungsziele durch Verwaltungstätigkeit, z.B. durch die staatliche
-Rechtsaufsicht.
+Darüber hinaus können sich im freien Bericht bestimmte
+psychopathologische Symptome zeigen, die bei einer eng strukturierten
+Befragung nicht zum Tragen kämen. So werden sich die formalen
+Denkstörungen einer psychotischen Person weniger im Rahmen eines
+strukturierten Interviews manifestieren, sondern eher während eines
+freien Gesprächsverlaufs. Dann ist unter Umständen zu beobachten, wie
+der Faden verloren geht, Gedankengänge inkohärent werden oder die zu
+begutachtende Person kommentierenden Stimmen folgt.
 
-## Verwaltungsakt
+Im weiteren Teil der Anamnese wird die begutachtende Person gezielt die
+verschiedenen, aus der Organmedizin bekannten Bereiche ähnlich einem
+semistrukturierten Interview abfragen. Neben Informationen zu Art und
+Entwicklung der beurteilungsrelevanten Symptomatik, zur körperlichen,
+vegetativen, Medikamenten- und Suchtanamnese kommt der biografischen und
+sozialen Anamnese bei psychiatrischen Erkrankungen eine besondere
+Bedeutung zu. Hier interessieren etwaige Auffälligkeiten der
+frühkindlichen Entwicklung, Schullaufbahn, Pubertät und Adoleszenz
+ebenso wie spätere Lebenskrisen oder „life events“ als mögliche Auslöser
+psychischer Dekompensation.
 
-Ein Verwaltungsakt ist die Handlungsform der öffentlichen Verwaltung.
-Bei einem Verwaltungsakt, oft als Bescheid bezeichnet, handelt es sich
-um eine hoheitliche Maßnahme einer Behörde auf dem Gebiet des
-öffentlichen Rechts zur Regelung eines Einzelfalls.
+Die Anamnese gibt zudem wertvolle Hinweise auf biologische,
+psychosoziale und psychische Ressourcen oder aber Risikofaktoren der zu
+begutachtenden Person, die die Fähigkeiten zu Stressbewältigung und
+Traumaverarbeitung sowie den Verlauf psychischer Erkrankungen wesentlich
+beeinflussen<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165650">
+<span class="citation">(Herrman et al., 2011)</span>.</span>
 
-Eine Behörde in diesem Sinn ist jede Stelle, die Aufgaben der
-öffentlichen Verwaltung wahrnimmt.
+Darüber hinaus empfiehlt es sich zur Einschätzung der konkreten
+Beeinträchtigungen, sich von der zu begutachtenden Person die
+Gestaltung und Bewältigung des privaten und ggf. beruflichen Alltags
+detailliert schildern zu lassen.
 
-Der Begriff des Verwaltungsaktes ist gesetzlich geregelt im
-Verwaltungsverfahrensgesetz (VwVfG) des Bundes:
+### Psychischer Befund
 
-“Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche
-Maßnahme, die eine Behörde zur Regelung eines Einzelfalls auf dem Gebiet
-des öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung
-nach außen gerichtet ist. Allgemeinverfügung ist ein Verwaltungsakt, der
-sich an einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren
-Personenkreis richtet oder die öffentlich-rechtliche Eigenschaft einer
-Sache oder ihre Benutzung durch die Allgemeinheit betrifft.”
+Kernstück der psychiatrischen Untersuchung und wesentliche Grundlage für
+eine psychiatrische Diagnosestellung ist der zum Zeitpunkt der
+Untersuchung erhobene psychische Befund (der nicht notwendigerweise
+psychopathologisch sein muss).
 
-(§ 35 VwVfG)
+Während des anamnestischen Gesprächs lassen sich ggf. bereits eine
+Vielzahl psychopathologischer Symptome beobachten wie kognitive
+Beeinträchtigungen, formale Denkstörungen oder Veränderungen von
+Antrieb oder Psychomotorik. Weitere psychische Symptome werden im Rahmen
+einer gezielten Exploration erhoben, so zum Beispiel das Vorliegen von
+Wahrnehmungsstörungen oder inhaltlichen Denkstörungen wie Wahnerleben
+oder Zwangsgedanken.
 
-Die unterschiedlichen Maßnahmen einer Behörde die durch einen
-Verwaltungsakt geregelt werden, können unterschieden werden in:
+Die Dokumentation des psychischen Befundes erfolgt gemäß den
+operationalisierten Kriterien des
+AMDP-Systems<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165650">
+</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165660"><span class="citation">(Arbeitsgemeinschaft
+für Methodik und Dokumentation in der Psychiatrie, 2006)</span>.</span>
 
-● **Verbot** eines Verhaltens ,wie z.B. Anordnung der Schließung der
-ambulanten Operationsräume einer Arztpraxis wegen gravierender
-Hygienemängel (§ 16 I IfSG) oder die Anordnung der Unterbrechung der
-betr. Wasserversorgung (§ 9 III TrinkwV).
+Die Arbeitsgemeinschaft für Methodik und Dokumentation in der
+Psychiatrie (AMDP) wurde 1965 mit dem Ziel gegründet, die vielfältigen
+Symptombeschreibungen zu vereinheitlichen und in die uns vertrauten
+Symptomkategorien zusammenzufassen. Ausführliche Formulierungshilfen zur
+Erfassung psychopathologischer Symptome finden sich
+bei<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165660">
+<span class="citation">(Richartz-Salzburger, Wormstall, & Morawetz,
+2006)</span>
+.</span>
 
-● **Gebot** eines Verhaltens, wie z.B. Anordnung von Schutzmaßnahmen
-(Anordnung der Beobachtung §§ 28, 29 IfSG), Anordnung der Quarantäne (§
-30 I IfSG) oder Anordnung der Untersuchung von Legionellen (§§ 20 I, 14
-III TrinkwV)
+|                                               |                                                                                                                                                                                       |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Äußeres Erscheinungsbild                      | Haartracht, Pflegezustand, Kleidung, Körperhaltung                                                                                                                                    |
+| Bewusstsein, Orientierung                     | wach, schläfrig, somnolent, stuporös                                                                                                                                                  |
+| Kognitive Funktionen                          | Gedächtnisleistungen, Konzentrationsvermögen, Aufmerksamkeitsspanne, Auffassungsgabe, Abstraktionsvermögen, Intelligenzniveau, Bildungsstand, Introspektions- und Reflexionsfähigkeit |
+| Formales Denken                               | geordnet, inkohärent, assoziativ gelockert, weitschweifig, zerfahren, gesperrt, verlangsamt                                                                                           |
+| Inhaltliches Denken                           | Wahninhalte, Zwangsgedanken; überwertige Ideen                                                                                                                                        |
+| Wahrnehmungsstörungen                         | Halluzination, Illusion                                                                                                                                                               |
+| Ich-Störungen                                 | Depersonalisation, Derealisation, Gedankenentzug, Gedankeneingebung, Fremdbeeinflussungserleben                                                                                       |
+| Störungen des Antriebs und der Psychomotorik: | Mimik, Gestik, Antriebssteigerung, Unruhe, Apathie, Agitation                                                                                                                         |
+| Affektive Symptome                            | Grundstimmung, affektive Schwingungsfähigkeit                                                                                                                                         |
+|                                               | Fremd- oder selbstgefährdende Impulse                                                                                                                                                 |
 
-● **Rechtsgewährung**, wie z.B. Erteilung der Fahrerlaubnis, Erteilung
-der Approbation (§ 3 BÄO, § 4 BApO), Erlaubnis zum Arbeiten mit
-Krankheitserregern (§44 I IfSG) oder die Herstellungserlaubnis (§ 13
-AMG, Zulassung)
+*Tab<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165660">elle
+</span>1: Auswahl von AMDP-Kriterien zur Beschreibung des psychischen
+Befundes*
 
-## Erlass
+Der psychische Befund im engeren Sinn kann durch eine Persönlichkeits-
+und Verhaltensbeobachtung ergänzt werden, die Aufschluss über die
+nonverbale und unbewusste Kommunikation des Gegenübers gibt.
+Insbesondere bei Probanden mit Persönlichkeitsstörungen und neurotischen
+Störungen äußern sich Symptome weniger in Form einer spezifischen
+Psychopathologie, sondern eher in auffälligen Verhaltensweisen und
+Besonderheiten der Beziehungsgestaltung. Deren Erfassung erfolgt unter
+Anwendung psychotherapeutischer Methoden, die im gutachterlichen Kontext
+nicht zu therapeutischen Zwecken, sondern als diagnostische Mittel
+eingesetzt werden. Dazu gehören unter anderem die Identifizierung der
+vorherrschenden Abwehrmechanismen sowie die Analyse von Übertragungs-
+und Gegenübertragungs-Phänomenen. Bereits die sogenannte Eingangsszene
+kann über das Erscheinungsbild und Art der Kontaktaufnahme einigen
+Aufschluss über die Persönlichkeit des Probanden geben. Unbewusst gibt
+der Proband „szenische Informationen“ und lässt ggf. ein Muster
+bestimmter (erlernter) Coping-Strategien und (unbewusster)
+Abwehrmechanismen erkennen. Diese Beobachtungen können Hinweise auf
+unbewusste Motive und Konflikte sowie das Strukturniveau der
+Persönlichkeit geben.
 
-Bei einem Erlass (auch Verwaltungsvorschrift, Verwaltungsrichtlinie,
-Ausführungsvorschriften, Anordnungen, Dienstanweisungen genannt) handelt
-sich um eine Anordnung, die innerhalb einer Verwaltungsorganisation von
-einer übergeordneten Verwaltungsinstanz oder einem Vorgesetzten an
-nachgeordnete Verwaltungsbehörden oder Bedienstete ergeht und deren
-Wirkbereich grundsätzlich auf das Innenrecht der Verwaltung beschränkt
-ist. Ein Erlass ist nicht öffentlich.
+Die psychiatrische Untersuchung schließt grundsätzlich eine körperliche
+Untersuchung ein, auf die lediglich im Fall des Vorliegens eines
+aktuellen Untersuchungsbefundes einschließlich Neurostatus oder der
+Ablehnung durch die zu begutachtende Person verzichtet werden sollte. Im
+Einzelfall sind Blutuntersuchungen (z.B. bei V.a. Suchterkrankung) oder
+testpsychologische Zusatzuntersuchungen (z.B. zum Ausschluss bzw.
+Quantifizierung kognitiver Störungen) sinnvoll.
 
-Erlasse sind nicht durch die Legislative legitimiert. Es obliegt dem
-Adressaten des Erlasses zu überprüfen, ob der Erlass mit geltendem Recht
-vereinbar ist (Siehe Vorrang und Vorbehalt des Gesetzes).
+Unter kritischer Würdigung der vorliegenden Fremdbefunde, des bisherigen
+Krankheits- und Therapieverlaufs und den Angaben der zu begutachtenden
+Person werden die Untersuchungsergebnisse einer Diagnose gemäß ICD
+zugeordnet.
 
-Bei einem Erlass kann es sich z.B. um eine Anordnung eines
-Landesministeriums an die kommunale Ebene handeln die das dem Ziel hat
-Verwaltungshandeln einheitlich zu gestalten.
+### Funktionelle Diagnose
 
-### Verfügung
+Liegt eine psychiatrische Erkrankung vor, ist im in Folgenden deren
+Auswirkung auf die konkrete, ggf. amtsbezogene Leistungsfähigkeit zu
+beurteilen.
 
-Eine Verfügung (im Verwaltungsrecht, einem Teilgebiet des Öffentlichen
-Rechtes) ist eine Maßnahme oder Entscheidung einer Behörde. Sie kann in
-Form eines Bescheids, nach außen gegeben werden, oder als Büroverfügung
-Anweisungen für den innerdienstlichen Betrieb enthalten.
+Für die Einschätzung der funktionellen Auswirkungen psychischer
+Störungen wurde in Anlehnung an die *Internationale Klassifikation*
+*der Funktionsfähigkeit, Behinderung und Gesundheit (International
+Classification of Functioning, Disability and Health, ICFDH*) von
+Michael Linden die „Mini-ICF“
+entwickelt<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165660">
+</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165670"><span class="citation">(Linden
+& Baron, 2005, 2005)</span></span>. Ausgehend von einer bekannten
+psychiatrischen Diagnose nennt das Mini-ICF eine Reihe von Fähigkeiten,
+die infolge der vorliegenden Psychopathologie relevant beeinträchtigt
+sein können
+(Tab<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165670">elle</span>
+2).
 
-### Bescheid
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><p>Fähigkeit zur Anpassung an Routinen und Regeln</p></li>
+<li><p>Fähigkeit zur Planung und Strukturierung von Aufgaben</p></li>
+<li><p>Flexibilität und Umstellungsfähigkeit</p></li>
+<li><p>Durchhaltefähigkeit</p></li>
+<li><p>Kontakt- und Kommunikationsfähigkeit</p></li>
+<li><p>Selbstbehauptungsfähigkeit</p></li>
+<li><p>Gruppenfähigkeit</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-Der Bescheid ist eine bestimmte Handlungsform der öffentlichen
-Verwaltung, z.B. als ein Dienstschreiben, das in einer besonderen Form
-verfasst ist und das eine oder mehrere Regelungen enthält (s.
-Verwaltungsakt).
+*Tab<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165670">elle</span>
+2 : Beispiele möglicher Fähigkeitsstörungen nach
+<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165670"><span class="citation">(Linden
+& Baron, 2005)</span></span>*
 
-Zur Form des Bescheids gehören regelmäßig Tenor, Begründung und
-Rechtsbehelfsbelehrung.
+Mithilfe dieser Begrifflichkeiten können die konkreten, auf die
+auszuübende Tätigkeit bezogenen Leistungseinschränkungen anschaulich
+und nachvollziehbar beschrieben werden, was dem Auftraggeber praxisnahe
+Hinweise auf die tatsächlichen Einsatzmöglichkeiten des Betroffenen
+gibt.
 
-### Dienstanweisung,
+**Prognosebeurteilung**
 
-Eine Dienstanweisung (abgekürzt DA) ist ein verbindlichen Arbeitsauftrag
-an einzelne Personen oder eine Personengruppe, z.B. Angehörige des
-Nachtdienste). Zwischen Auftraggeber und Auftragnehmer muss es dazu ein
-Dienstverhältnis geben, welches den Handlungsraum und die mit der
-Ausführung der Dienstanweisung verbundene Ressourcenallokation
-eindeutig regelt (wer macht wo und wann was?).
+Schließlich ist in der Regel zur Prognose einer Erkrankung Stellung zu
+nehmen. In den letzten Jahren wurden eine Vielzahl individueller
+Risikofaktoren sowie protektiver Einflüsse auf den Verlauf psychischer
+Störungen intensiv beforscht. Neben Studien zu genetischen,
+neurobiologischen und psychosozialen Risikofaktoren erweiterte die
+Resilienzforschung (1) die Bandbreite der zu berücksichtigenden
+Einflüsse auf die Prognose psychischer Erkrankungen. Dennoch gibt es
+kaum belastbare Studien, die den individuellen Verlauf psychiatrischer
+Erkrankungen mit ausreichender Signifikanz antezipieren ließen. Im
+schwierigsten Teil der Begutachtung darf daher durchaus auf die Grenzen
+psychiatrischer Vorhersagekraft verwiesen werden.
 
-Eine Dienstanweisung gilt, ähnlich wie eine Verwaltungsvorschrift, stets
-nur im Innenverhältnis einer Behörde, d.h. sie begründet keine Rechte
-oder Pflichten für Personen außerhalb der Behörde, in der sie gilt.
+Anhaltspunkte zur Prognoseeinschätzung können
+sein<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26165670">
+<span class="citation">(**Arbeitsgemeinschaft der Wissenschaftlichen
+Medizinischen Fachgesellschaften** e.V., 2012)</span></span> :
 
-## Gebietskörperschaft
+  - die identifizierten Risiko- und protektiven Faktoren des Betroffenen
 
-Eine Gebietskörperschaft ist eine Körperschaft, deren Zuständigkeit und
-Mitgliedschaft territorial bestimmt ist.
+  - Auslöser und bisheriger Verlauf der Erkrankung (Schweregrad, Dauer,
+    Chronifizierung)
 
-Ihre Gebietshoheit ist jeweils auf einem räumlich abgegrenzten Teil des
-Staatsgebietes beschränkt. Im engeren Sinn sind Gebietskörperschaften
-Gemeinden, Kommunale Verbände, Landkreise und Bezirke, im weiteren Sinn
-fallen auch die deutschen Bundesländer.
+  - Krankheitsverarbeitung und Veränderungsmotivation
 
-Sie grenzen sich dadurch von solchen Körperschaften ab, deren
-Mitgliedschaft durch persönliche Eigenschaften bestimmt werden, z.B.
-Ärztekammer.
+  - bisherige Therapien und Rehabilitationsmaßnahmen und ihr Erfolg
 
-### Dienstaufsicht
+  - Arbeitsunfähigkeitszeiten
 
-Das Aufsichts- und Weisungsrecht der höheren Behörde gegenüber der
-nachgeordneten Behörde und des Vorgesetzten gegenüber seinen
-untergebenen Beamten wird als Dienstaufsicht bezeichnet. Sie umfasst die
-fachliche und rechtliche Kontrolle der Ausübung des Dienstes. Die
-Dienstaufsicht ist Kernaufgabe von Dienstvorgesetzten.
+  - sozialer Hintergrund und Unterstützung (Familie, Beruf,
+    Verfügbarkeit eines  
+    Arbeitsplatzes, Arbeitsplatzkonflikte)
 
-Der Dienstaufsichtsberechtigte ist weisungsbefugt und kann bei Verstößen
-gegen die Dienstpflicht Disziplinarmaßnahmen veranlassen.
+  - Rentenantragstellung
+    
+    Auch die Beantwortung weiterer Fragen, z.B. nach dem Vorliegen einer
+    Beeinträchtigung der Steuerungsfähigkeit zu einem früheren
+    Zeitpunkt, kann unter Umständen nicht die von der auftraggebenden
+    Person gewünschte Eindeutigkeit erfolgen. Hier sollte die
+    begutachtende Person medizinisch korrekt bleiben und sich auch im
+    Fall kritischer Nachfragen zum „non liquet“ (“es ist nicht klar”)
+    bekennen.
 
-### Kommunalaufsicht
+# 
 
-Das gesamte Handeln einer Kommune steht in Deutschland unter staatlicher
-Aufsicht des jeweiligen Landes. Zu unterscheiden ist hierbei im
-Wesentlichen die Rechtsaufsicht von der Fachaufsicht (bzw.
-Sonderaufsicht).
-
-Kommunalaufsicht selbst ist immer eine besondere Form der
-Rechtsaufsicht.
-
-### Rechtsaufsicht
-
-Von Aufsichtsbehörden wird gegenüber den der Rechtsaufsicht
-unterworfenen Behörden die Rechtsaufsicht ausgeübt und erstreckt sich
-auf die Einhaltung von Recht und Gesetz durch die Verwaltung (sog.
-Vorrang des Gesetzes). Die Rechtsaufsicht unterscheidet sich damit von
-der Fachaufsicht bzw. der Sonderaufsicht, die sich auch auf die
-Zweckmäßigkeit des Verwaltungshandelns bezieht.
-
-### Fachaufsicht
-
-Nachgeordnete Behörden unterliegen innerhalb eines Verwaltungszuges der
-Fachaufsicht, d.h. die nachgeordnete Behörde wird nicht nur daraufhin
-kontrolliert, ob sie Recht und Gesetz einhält (Rechtsaufsicht), sie
-unterliegt auch der Zweckmäßigkeitskontrolle (Art und Weise der
-Aufgabenerfüllung).
-
-### Amtshilfe
-
-Die Hilfeleistung einer Behörde für eine andere Behörde wird als
-Amtshilfe bezeichnet. Die Behörde, die um Amtshilfe bittet, wird
-ersuchende Behörde genannt. Die Behörde, die Amtshilfe leisten soll,
-wird als ersuchte Behörde bezeichnet.
-
-Nach dem Grundgesetz leisten sich alle Behörden des Bundes und der
-Länder gegenseitig Rechts- und Amtshilfe.
-
-“Alle Behörden des Bundes und der Länder leisten sich gegenseitig
-Rechts- und Amtshilfe.” (Art. 35 Abs. 1 GG).
-
-Das VwVfG regelt in § 5 die Voraussetzungen und Grenzen der Amtshilfe.
-Ein triftiger Grund die Amtshilfe zu verweigern könnte Vorliegen von
-Unverhältnismäßigkeit sein.
-
-### Vollzugshilfe
-
-Ein Unterfall der Amtshilfe ist die Vollzugshilfe. Sie stellt das
-Ersuchen einer Behörde an eine andere Behörde dar, bestimmte Maßnahmen
-zu vollziehen. Hierbei kann es sich um Verfügungen, einen Bescheid oder
-einen Beschluss handeln. Grund hierfür ist das personelle oder
-funktionale Unvermögen der ersuchenden Behörde.
-
-Der häufigste Fall ist die Anwendung von unmittelbarem Zwang durch
-körperliche Gewalt; Ausführende sind dann Polizeivollzugsbeamte.
-
-## Rechtsverhältnis: Arzt/Ärztin des Gesundheitsamtes und Patienten
-
-Einschlägige rechtliche Grundlagen bestehen zwischen jedem Arzt/jeder
-Ärztin und Patienten, die diese ärztliche Kompetenz in Anspruch nehmen.
-Dieses Rechtsverhältnis garantiert den Patienten, dass die Vorgaben, die
-in der Genfer Deklaration des Weltärztebundes (Genfer Gelöbnis) und in
-standesrechtlichen Normen der Bundes- und Landesärztekammern
-festgehalten wurden, eingehalten werden.
-
-Ein Bürger, der das Gesundheitsamt aufsucht und Kontakt zu einer/m
-Ärztin/ Arzt des Gesundheitsamtes hat, kann daher kein „Klient“,
-„Kunde“, „Bürger“ sein, selbst wenn er nur einer Auskunft bedarf -
-er/sie ist immer ein Patient.
-
-<div class="section fnlist" data-role="doc-footnotes">
+<div class="csl-bib-body">
 
 </div>
