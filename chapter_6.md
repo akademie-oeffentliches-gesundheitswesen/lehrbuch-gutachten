@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 06. Besonderheit bei der Begutachtung Psychischer Störungen
+title: 06. Besonderheit bei der Begutachtung: Psychischer Störungen
 nav_order: 6
 ---
  

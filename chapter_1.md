@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01. Juristischer Hintergrund Amtsärztliche Gutachten im Verfahren
+title: 01. Juristischer Hintergrund: Amtsärztliche Gutachten im Verfahren
 nav_order: 1
 ---
  

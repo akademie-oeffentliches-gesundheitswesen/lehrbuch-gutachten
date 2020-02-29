@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 13. Gutachtenbereich Teilkapitalisierung (Kapitalabfindung)
+title: 13. Gutachtenbereich: Teilkapitalisierung (Kapitalabfindung)
 nav_order: 12
 ---
  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10. Gutachtenbereich Beamtenrecht & Dienstfähigkeit
+title: 10. Gutachtenbereich: Beamtenrecht & Dienstfähigkeit
 nav_order: 9
 ---
  
