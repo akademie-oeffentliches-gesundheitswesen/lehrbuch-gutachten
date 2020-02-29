@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01. Juristischer Hintergrund: Amtsärztliche Gutachten im Verfahren
+title: 01. Juristischer Hintergrund Amtsärztliche Gutachten im Verfahren
 nav_order: 1
 ---
  
@@ -15,7 +15,7 @@ nav_order: 1
  
    <p></p>
  
- 
+   
 Die sachliche Basis für ein Gutachten ergibt sich zum einen (I.)
 **formell-abstrakt** aus den rechtlichen Anforderungen des jeweils
 einschlägigen Verfahrensrechts und zum anderen (II.) aus den

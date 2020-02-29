@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 15. Gutachtenbereich: Spezielle Gutachten
+title: 15. Gutachtenbereich Spezielle Gutachten
 nav_order: 14
 ---
  

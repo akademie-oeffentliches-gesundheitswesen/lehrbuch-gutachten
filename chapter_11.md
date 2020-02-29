@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 12. Gutachtenbereich: Befähigung zum Führen von Waffen
+title: 12. Gutachtenbereich Befähigung zum Führen von Waffen
 nav_order: 11
 ---
  
